@@ -14,5 +14,5 @@ Salaries are provided from 2007. Expenses are provided from 2015-05-01.
 
 For a quick overview the same data in Google sheets as of November 5th:
 
-https://docs.google.com/spreadsheets/d/1C1wA3ZGE0lU9EbbQl-EJylQ8LmVmxwEPLHGAeJpOEBA/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1wNZ3itmmkfIFf8bAgaUqMnoYznyTQTSl77sY4q_HbSY/edit?usp=sharing
+Expenses - https://goo.gl/lVk50r
+Salaries - https://goo.gl/pzUYgf
