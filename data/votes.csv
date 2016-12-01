@@ -25300,40 +25300,39 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2205101,Už,33666,44593589,"Artūras Zuokas","Artūras Zuokas","2016-10-26 14:00:18",Už,1
 2205102,Prieš,33666,44593589,"Algis Čaplikas","Algis Čaplikas","2016-10-26 14:00:18",Prieš,3
 2205103,Prieš,33666,44593589,"Jaroslav Kaminski","Jaroslav Kaminski","2016-10-26 14:00:18",Prieš,3
-2205104,Už,33762,44830458,Šimašius,Šimašius,"2016-11-23 13:23:30",Už,1
-2205105,Už,33763,44830458,Šimašius,Šimašius,"2016-11-23 13:23:30",Už,1
-2205106,Už,33718,44830458,Šimašius,Šimašius,"2016-11-23 13:29:14",Už,1
-2205107,Už,33719,44830458,Šimašius,Šimašius,"2016-11-23 13:29:14",Už,1
-2205108,Už,33720,44830458,Šimašius,Šimašius,"2016-11-23 13:29:14",Už,1
-2205109,Už,33721,44830458,Šimašius,Šimašius,"2016-11-23 13:36:03",Už,1
-2205110,Už,33724,44830458,Šimašius,Šimašius,"2016-11-23 13:37:43",Už,1
-2205111,Už,33722,44830458,Šimašius,Šimašius,"2016-11-23 13:38:13",Už,1
-2205112,Už,33731,44830458,Šimašius,Šimašius,"2016-11-23 13:39:48",Už,1
-2205113,Už,33761,44830458,Šimašius,Šimašius,"2016-11-23 14:39:11",Už,1
-2205114,Už,33726,44830458,Šimašius,Šimašius,"2016-11-23 14:59:42",Už,1
-2205115,Už,33729,44830458,Šimašius,Šimašius,"2016-11-23 16:27:43",Už,1
-2205116,Už,33730,44830458,Šimašius,Šimašius,"2016-11-23 16:37:39",Už,1
-2205117,Už,33732,44830458,Šimašius,Šimašius,"2016-11-23 16:39:17",Už,1
-2205118,Už,33757,44830458,Šimašius,Šimašius,"2016-11-23 16:39:48",Už,1
-2205119,Už,33734,44830458,"Kasparas Adomaitis","Kasparas Adomaitis","2016-11-23 16:41:19",Už,1
-2205120,Už,33734,44830458,"Rita Balčiūnienė","Rita Balčiūnienė","2016-11-23 16:41:19",Už,1
-2205121,Už,33734,44830458,"Danutė Bekintienė","Danutė Bekintienė","2016-11-23 16:41:19",Už,1
-2205122,Už,33734,44830458,"Bronius Cicėnas","Bronius Cicėnas","2016-11-23 16:41:19",Už,1
-2205123,Už,33734,44830458,"Šarūnas Gustainis","Šarūnas Gustainis","2016-11-23 16:41:19",Už,1
-2205124,Už,33734,44830458,"Mark Harold","Mark Harold","2016-11-23 16:41:19",Už,1
-2205125,Už,33734,44830458,"Vaidotas Ilgius","Vaidotas Ilgius","2016-11-23 16:41:19",Už,1
-2205126,Už,33734,44830458,"Audronis Imbrasas","Audronis Imbrasas","2016-11-23 16:41:19",Už,1
-2205127,Už,33734,44830458,"Vincas Jurgutis","Vincas Jurgutis","2016-11-23 16:41:19",Už,1
-2205128,Už,33734,44830458,"Andrius Katinas","Andrius Katinas","2016-11-23 16:41:19",Už,1
-2205129,Už,33734,44830458,"Darius Kuolys","Darius Kuolys","2016-11-23 16:41:19",Už,1
-2205130,Už,33734,44830458,"Paulė Kuzmickienė","Paulė Kuzmickienė","2016-11-23 16:41:19",Už,1
-2205131,Už,33734,44830458,"Linas Kvedaravičius","Linas Kvedaravičius","2016-11-23 16:41:19",Už,1
-2205132,Už,33734,44830458,"Vytautas Mitalas","Vytautas Mitalas","2016-11-23 16:41:19",Už,1
-2205133,Už,33734,44830458,"Violeta Podolskaitė","Violeta Podolskaitė","2016-11-23 16:41:19",Už,1
-2205134,Už,33734,44830458,"Gediminas Rudžionis","Gediminas Rudžionis","2016-11-23 16:41:19",Už,1
-2205135,Už,33734,44830458,"Arvydas Sekmokas","Arvydas Sekmokas","2016-11-23 16:41:19",Už,1
-2205136,Už,33734,44830458,"Remigijus Šimašius","Remigijus Šimašius","2016-11-23 16:41:19",Už,1
-2205137,Už,33734,44830458,"Šarūnas Skučas","Šarūnas Skučas","2016-11-23 16:41:19",Už,1
-2205138,Už,33734,44830458,"Valerij Stankevič","Valerij Stankevič","2016-11-23 16:41:19",Už,1
-2205139,Už,33734,44830458,"Skirmantas Tumelis","Skirmantas Tumelis","2016-11-23 16:41:19",Už,1
-2205140,Už,33734,44830458,"Vidas Urbonavičius","Vidas Urbonavičius","2016-11-23 16:41:19",Už,1
+2205465,Už,33762,44830458,Šimašius,Šimašius,"2016-11-23 13:23:30",Už,1
+2205466,Už,33763,44830458,Šimašius,Šimašius,"2016-11-23 13:23:30",Už,1
+2205467,Už,33718,44830458,Šimašius,Šimašius,"2016-11-23 13:29:14",Už,1
+2205468,Už,33719,44830458,Šimašius,Šimašius,"2016-11-23 13:29:14",Už,1
+2205469,Už,33720,44830458,Šimašius,Šimašius,"2016-11-23 13:29:14",Už,1
+2205470,Už,33721,44830458,Šimašius,Šimašius,"2016-11-23 13:36:03",Už,1
+2205471,Už,33724,44830458,Šimašius,Šimašius,"2016-11-23 13:37:43",Už,1
+2205472,Už,33722,44830458,Šimašius,Šimašius,"2016-11-23 13:38:13",Už,1
+2205473,Už,33731,44830458,Šimašius,Šimašius,"2016-11-23 13:39:48",Už,1
+2205474,Už,33761,44830458,Šimašius,Šimašius,"2016-11-23 14:59:42",Už,1
+2205475,Už,33728,44830458,Šimašius,Šimašius,"2016-11-23 16:27:43",Už,1
+2205476,Už,33729,44830458,Šimašius,Šimašius,"2016-11-23 16:37:39",Už,1
+2205477,Už,33730,44830458,Šimašius,Šimašius,"2016-11-23 16:39:17",Už,1
+2205478,Už,33732,44830458,Šimašius,Šimašius,"2016-11-23 16:39:48",Už,1
+2205479,Už,33757,44830458,"Kasparas Adomaitis","Kasparas Adomaitis","2016-11-23 16:41:19",Už,1
+2205480,Už,33757,44830458,"Rita Balčiūnienė","Rita Balčiūnienė","2016-11-23 16:41:19",Už,1
+2205481,Už,33757,44830458,"Danutė Bekintienė","Danutė Bekintienė","2016-11-23 16:41:19",Už,1
+2205482,Už,33757,44830458,"Bronius Cicėnas","Bronius Cicėnas","2016-11-23 16:41:19",Už,1
+2205483,Už,33757,44830458,"Šarūnas Gustainis","Šarūnas Gustainis","2016-11-23 16:41:19",Už,1
+2205484,Už,33757,44830458,"Mark Harold","Mark Harold","2016-11-23 16:41:19",Už,1
+2205485,Už,33757,44830458,"Vaidotas Ilgius","Vaidotas Ilgius","2016-11-23 16:41:19",Už,1
+2205486,Už,33757,44830458,"Audronis Imbrasas","Audronis Imbrasas","2016-11-23 16:41:19",Už,1
+2205487,Už,33757,44830458,"Vincas Jurgutis","Vincas Jurgutis","2016-11-23 16:41:19",Už,1
+2205488,Už,33757,44830458,"Andrius Katinas","Andrius Katinas","2016-11-23 16:41:19",Už,1
+2205489,Už,33757,44830458,"Darius Kuolys","Darius Kuolys","2016-11-23 16:41:19",Už,1
+2205490,Už,33757,44830458,"Paulė Kuzmickienė","Paulė Kuzmickienė","2016-11-23 16:41:19",Už,1
+2205491,Už,33757,44830458,"Linas Kvedaravičius","Linas Kvedaravičius","2016-11-23 16:41:19",Už,1
+2205492,Už,33757,44830458,"Vytautas Mitalas","Vytautas Mitalas","2016-11-23 16:41:19",Už,1
+2205493,Už,33757,44830458,"Violeta Podolskaitė","Violeta Podolskaitė","2016-11-23 16:41:19",Už,1
+2205494,Už,33757,44830458,"Gediminas Rudžionis","Gediminas Rudžionis","2016-11-23 16:41:19",Už,1
+2205495,Už,33757,44830458,"Arvydas Sekmokas","Arvydas Sekmokas","2016-11-23 16:41:19",Už,1
+2205496,Už,33757,44830458,"Remigijus Šimašius","Remigijus Šimašius","2016-11-23 16:41:19",Už,1
+2205497,Už,33757,44830458,"Šarūnas Skučas","Šarūnas Skučas","2016-11-23 16:41:19",Už,1
+2205498,Už,33757,44830458,"Valerij Stankevič","Valerij Stankevič","2016-11-23 16:41:19",Už,1
+2205499,Už,33757,44830458,"Skirmantas Tumelis","Skirmantas Tumelis","2016-11-23 16:41:19",Už,1
+2205500,Už,33757,44830458,"Vidas Urbonavičius","Vidas Urbonavičius","2016-11-23 16:41:19",Už,1
