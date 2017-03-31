@@ -27617,7 +27617,6 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2293603,Susilaikė,35150,45760137,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-03-15 14:27:10",Susilaikė,2
 2293604,Susilaikė,35150,45760137,"Artur Liudkovski","Artur Liudkovski","2017-03-15 14:27:10",Susilaikė,2
 2293605,Susilaikė,35150,45760137,"Gediminas Švilpa","Gediminas Švilpa","2017-03-15 14:27:10",Susilaikė,2
-2295736,Už,35164,45760137,Šimašius,Šimašius,"2017-03-15 16:18:16",Už,1
 2295767,Už,35142,45760137,Šimašius,Šimašius,"2017-03-15 13:52:35",Už,1
 2302756,Už,35212,45842020,Šimašius,Šimašius,"2017-03-22 13:18:39",Už,1
 2302757,Už,35213,45842020,Šimašius,Šimašius,"2017-03-22 13:18:39",Už,1
@@ -27975,7 +27974,6 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2303109,Už,35232,45842020,Šimašius,Šimašius,"2017-03-22 16:53:44",Už,1
 2303110,Už,35233,45842020,Šimašius,Šimašius,"2017-03-22 16:53:44",Už,1
 2303136,Už,35236,45842020,Šimašius,Šimašius,"2017-03-22 17:09:11",Už,1
-2303137,Už,35237,45842020,Šimašius,Šimašius,"2017-03-22 17:10:33",Už,1
 2303138,Už,35238,45842020,"Kasparas Adomaitis","Kasparas Adomaitis","2017-03-22 17:14:22",Už,1
 2303139,Už,35238,45842020,"Rita Balčiūnienė","Rita Balčiūnienė","2017-03-22 17:14:22",Už,1
 2303140,Už,35238,45842020,"Danutė Bekintienė","Danutė Bekintienė","2017-03-22 17:14:22",Už,1
@@ -28038,28 +28036,30 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2303230,Susilaikė,35159,45760137,"Gžegož Sakson","Gžegož Sakson","2017-03-15 16:09:39",Susilaikė,2
 2303231,Susilaikė,35159,45760137,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-03-15 16:09:39",Susilaikė,2
 2303232,Susilaikė,35159,45760137,"Gintautas Terleckas","Gintautas Terleckas","2017-03-15 16:09:39",Susilaikė,2
-2303258,Už,35235,45842020,"Kasparas Adomaitis","Kasparas Adomaitis","2017-03-22 17:08:29",Už,1
-2303259,Už,35235,45842020,"Rita Balčiūnienė","Rita Balčiūnienė","2017-03-22 17:08:29",Už,1
-2303260,Už,35235,45842020,"Danutė Bekintienė","Danutė Bekintienė","2017-03-22 17:08:29",Už,1
-2303261,Už,35235,45842020,"Valdas Benkunskas","Valdas Benkunskas","2017-03-22 17:08:29",Už,1
-2303262,Už,35235,45842020,"Mark Harold","Mark Harold","2017-03-22 17:08:29",Už,1
-2303263,Už,35235,45842020,"Vaidotas Ilgius","Vaidotas Ilgius","2017-03-22 17:08:29",Už,1
-2303264,Už,35235,45842020,"Audronis Imbrasas","Audronis Imbrasas","2017-03-22 17:08:29",Už,1
-2303265,Už,35235,45842020,"Vincas Jurgutis","Vincas Jurgutis","2017-03-22 17:08:29",Už,1
-2303266,Už,35235,45842020,"Justina Kašėtienė","Justina Kašėtienė","2017-03-22 17:08:29",Už,1
-2303267,Už,35235,45842020,"Andrius Katinas","Andrius Katinas","2017-03-22 17:08:29",Už,1
-2303268,Už,35235,45842020,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-03-22 17:08:29",Už,1
-2303269,Už,35235,45842020,"Darius Kuolys","Darius Kuolys","2017-03-22 17:08:29",Už,1
-2303270,Už,35235,45842020,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-03-22 17:08:29",Už,1
-2303271,Už,35235,45842020,"Linas Kvedaravičius","Linas Kvedaravičius","2017-03-22 17:08:29",Už,1
-2303272,Už,35235,45842020,"Vidmantas Martikonis","Vidmantas Martikonis","2017-03-22 17:08:29",Už,1
-2303273,Už,35235,45842020,"Vytautas Mitalas","Vytautas Mitalas","2017-03-22 17:08:29",Už,1
-2303274,Už,35235,45842020,"Violeta Podolskaitė","Violeta Podolskaitė","2017-03-22 17:08:29",Už,1
-2303275,Už,35235,45842020,"Arvydas Sekmokas","Arvydas Sekmokas","2017-03-22 17:08:29",Už,1
-2303276,Už,35235,45842020,"Remigijus Šimašius","Remigijus Šimašius","2017-03-22 17:08:29",Už,1
-2303277,Už,35235,45842020,"Gediminas Švilpa","Gediminas Švilpa","2017-03-22 17:08:29",Už,1
-2303278,Už,35235,45842020,"Marius Skarupskas","Marius Skarupskas","2017-03-22 17:08:29",Už,1
-2303279,Už,35235,45842020,"Šarūnas Skučas","Šarūnas Skučas","2017-03-22 17:08:29",Už,1
-2303280,Už,35235,45842020,"Gediminas Storpirštis","Gediminas Storpirštis","2017-03-22 17:08:29",Už,1
-2303281,Už,35235,45842020,"Liutauras Stoškus","Liutauras Stoškus","2017-03-22 17:08:29",Už,1
-2303282,Už,35235,45842020,"Skirmantas Tumelis","Skirmantas Tumelis","2017-03-22 17:08:29",Už,1
+2303358,Už,35237,45842020,Šimašius,Šimašius,"2017-03-22 17:10:33",Už,1
+2303415,Už,35235,45842020,"Kasparas Adomaitis","Kasparas Adomaitis","2017-03-22 17:08:29",Už,1
+2303416,Už,35235,45842020,"Rita Balčiūnienė","Rita Balčiūnienė","2017-03-22 17:08:29",Už,1
+2303417,Už,35235,45842020,"Danutė Bekintienė","Danutė Bekintienė","2017-03-22 17:08:29",Už,1
+2303418,Už,35235,45842020,"Valdas Benkunskas","Valdas Benkunskas","2017-03-22 17:08:29",Už,1
+2303419,Už,35235,45842020,"Mark Harold","Mark Harold","2017-03-22 17:08:29",Už,1
+2303420,Už,35235,45842020,"Vaidotas Ilgius","Vaidotas Ilgius","2017-03-22 17:08:29",Už,1
+2303421,Už,35235,45842020,"Audronis Imbrasas","Audronis Imbrasas","2017-03-22 17:08:29",Už,1
+2303422,Už,35235,45842020,"Vincas Jurgutis","Vincas Jurgutis","2017-03-22 17:08:29",Už,1
+2303423,Už,35235,45842020,"Justina Kašėtienė","Justina Kašėtienė","2017-03-22 17:08:29",Už,1
+2303424,Už,35235,45842020,"Andrius Katinas","Andrius Katinas","2017-03-22 17:08:29",Už,1
+2303425,Už,35235,45842020,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-03-22 17:08:29",Už,1
+2303426,Už,35235,45842020,"Darius Kuolys","Darius Kuolys","2017-03-22 17:08:29",Už,1
+2303427,Už,35235,45842020,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-03-22 17:08:29",Už,1
+2303428,Už,35235,45842020,"Linas Kvedaravičius","Linas Kvedaravičius","2017-03-22 17:08:29",Už,1
+2303429,Už,35235,45842020,"Vidmantas Martikonis","Vidmantas Martikonis","2017-03-22 17:08:29",Už,1
+2303430,Už,35235,45842020,"Vytautas Mitalas","Vytautas Mitalas","2017-03-22 17:08:29",Už,1
+2303431,Už,35235,45842020,"Violeta Podolskaitė","Violeta Podolskaitė","2017-03-22 17:08:29",Už,1
+2303432,Už,35235,45842020,"Arvydas Sekmokas","Arvydas Sekmokas","2017-03-22 17:08:29",Už,1
+2303433,Už,35235,45842020,"Remigijus Šimašius","Remigijus Šimašius","2017-03-22 17:08:29",Už,1
+2303434,Už,35235,45842020,"Gediminas Švilpa","Gediminas Švilpa","2017-03-22 17:08:29",Už,1
+2303435,Už,35235,45842020,"Marius Skarupskas","Marius Skarupskas","2017-03-22 17:08:29",Už,1
+2303436,Už,35235,45842020,"Šarūnas Skučas","Šarūnas Skučas","2017-03-22 17:08:29",Už,1
+2303437,Už,35235,45842020,"Gediminas Storpirštis","Gediminas Storpirštis","2017-03-22 17:08:29",Už,1
+2303438,Už,35235,45842020,"Liutauras Stoškus","Liutauras Stoškus","2017-03-22 17:08:29",Už,1
+2303439,Už,35235,45842020,"Skirmantas Tumelis","Skirmantas Tumelis","2017-03-22 17:08:29",Už,1
+2303470,Už,35164,45760137,Šimašius,Šimašius,"2017-03-15 16:18:16",Už,1
