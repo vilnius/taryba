@@ -28890,301 +28890,723 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2310155,Susilaikė,35919,46138214,"Artūras Zuokas","Artūras Zuokas","2017-04-25 15:52:21",Susilaikė,2
 2310239,Už,35917,46138214,Šimašius,Šimašius,"2017-04-25 15:14:33",Už,1
 2310329,Už,35903,46138214,Šimašius,Šimašius,"2017-04-25 11:45:17",Už,1
-2310932,Už,36260,46308248,Šimašius,Šimašius,"2017-05-17 15:15:11",Už,1
-2310933,Už,36261,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
-2310934,Už,36209,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
-2310935,Už,36210,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
-2310936,Už,36211,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
-2310937,Už,36212,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 14:21:30",Už,1
-2310938,Už,36212,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 14:21:30",Už,1
-2310939,Už,36212,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 14:21:30",Už,1
-2310940,Už,36212,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 14:21:30",Už,1
-2310941,Už,36212,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 14:21:30",Už,1
-2310942,Už,36212,46308248,"Audronis Imbrasas","Audronis Imbrasas","2017-05-17 14:21:30",Už,1
-2310943,Už,36212,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 14:21:30",Už,1
-2310944,Už,36212,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 14:21:30",Už,1
-2310945,Už,36212,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 14:21:30",Už,1
-2310946,Už,36212,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 14:21:30",Už,1
-2310947,Už,36212,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 14:21:30",Už,1
-2310948,Už,36212,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 14:21:30",Už,1
-2310949,Už,36212,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 14:21:30",Už,1
-2310950,Už,36212,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 14:21:30",Už,1
-2310951,Už,36212,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 14:21:30",Už,1
-2310952,Už,36212,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 14:21:30",Už,1
-2310953,Už,36212,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 14:21:30",Už,1
-2310954,Už,36212,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 14:21:30",Už,1
-2310955,Už,36212,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 14:21:30",Už,1
-2310956,Už,36212,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 14:21:30",Už,1
-2310957,Už,36212,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 14:21:30",Už,1
-2310958,Už,36212,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 14:21:30",Už,1
-2310959,Už,36212,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 14:21:30",Už,1
-2310960,Už,36212,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 14:21:30",Už,1
-2310961,Už,36212,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 14:21:30",Už,1
-2310962,Prieš,36212,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 14:21:30",Prieš,3
-2310963,Prieš,36212,46308248,"Artur Liudkovski","Artur Liudkovski","2017-05-17 14:21:30",Prieš,3
-2310964,Prieš,36212,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 14:21:30",Prieš,3
-2310965,Prieš,36212,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 14:21:30",Prieš,3
-2310966,Prieš,36212,46308248,"Gžegož Sakson","Gžegož Sakson","2017-05-17 14:21:30",Prieš,3
-2310967,Prieš,36212,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 14:21:30",Prieš,3
-2310968,Prieš,36212,46308248,"Edita Šiško","Edita Šiško","2017-05-17 14:21:30",Prieš,3
-2310969,Prieš,36212,46308248,"Artūras Zuokas","Artūras Zuokas","2017-05-17 14:21:30",Prieš,3
-2310970,Susilaikė,36212,46308248,"Algis Čaplikas","Algis Čaplikas","2017-05-17 14:21:30",Susilaikė,2
-2310971,Susilaikė,36212,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 14:21:30",Susilaikė,2
-2310972,Susilaikė,36212,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 14:21:30",Susilaikė,2
-2310973,Susilaikė,36212,46308248,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-17 14:21:30",Susilaikė,2
-2310974,Susilaikė,36212,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 14:21:30",Susilaikė,2
-2310975,Susilaikė,36212,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 14:21:30",Susilaikė,2
-2310976,Susilaikė,36212,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 14:21:30",Susilaikė,2
-2310977,Susilaikė,36212,46308248,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-17 14:21:30",Susilaikė,2
-2310978,Susilaikė,36212,46308248,"Aldona Šventickienė","Aldona Šventickienė","2017-05-17 14:21:30",Susilaikė,2
-2310979,Susilaikė,36212,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 14:21:30",Susilaikė,2
-2310980,Susilaikė,36212,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 14:21:30",Susilaikė,2
-2310981,Susilaikė,36212,46308248,"Valerij Stankevič","Valerij Stankevič","2017-05-17 14:21:30",Susilaikė,2
-2310982,Susilaikė,36212,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 14:21:30",Susilaikė,2
-2310983,Už,36213,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
-2310984,Už,36214,46308248,Šimašius,Šimašius,"2017-05-17 15:15:13",Už,1
-2310985,Už,36215,46308248,Šimašius,Šimašius,"2017-05-17 15:15:13",Už,1
-2310986,Už,36216,46308248,Šimašius,Šimašius,"2017-05-17 15:15:13",Už,1
-2310987,Už,36217,46308248,Šimašius,Šimašius,"2017-05-17 15:15:13",Už,1
-2310988,Už,36218,46308248,Šimašius,Šimašius,"2017-05-17 15:15:14",Už,1
-2310989,Už,36219,46308248,Šimašius,Šimašius,"2017-05-17 15:15:14",Už,1
-2310990,Už,36220,46308248,Šimašius,Šimašius,"2017-05-17 15:15:14",Už,1
-2310991,Už,36221,46308248,Šimašius,Šimašius,"2017-05-17 15:15:14",Už,1
-2310992,Už,36222,46308248,Šimašius,Šimašius,"2017-05-17 15:15:15",Už,1
-2310993,Už,36226,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 14:51:42",Už,1
-2310994,Už,36226,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 14:51:42",Už,1
-2310995,Už,36226,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 14:51:42",Už,1
-2310996,Už,36226,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 14:51:42",Už,1
-2310997,Už,36226,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 14:51:42",Už,1
-2310998,Už,36226,46308248,"Artur Liudkovski","Artur Liudkovski","2017-05-17 14:51:42",Už,1
-2310999,Už,36226,46308248,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-17 14:51:42",Už,1
-2311000,Už,36226,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 14:51:42",Už,1
-2311001,Už,36226,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 14:51:42",Už,1
-2311002,Už,36226,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 14:51:42",Už,1
-2311003,Už,36226,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 14:51:42",Už,1
-2311004,Už,36226,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 14:51:42",Už,1
-2311005,Už,36226,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 14:51:42",Už,1
-2311006,Už,36226,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 14:51:42",Už,1
-2311007,Už,36226,46308248,"Gžegož Sakson","Gžegož Sakson","2017-05-17 14:51:42",Už,1
-2311008,Už,36226,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 14:51:42",Už,1
-2311009,Už,36226,46308248,"Edita Šiško","Edita Šiško","2017-05-17 14:51:42",Už,1
-2311010,Už,36226,46308248,"Aldona Šventickienė","Aldona Šventickienė","2017-05-17 14:51:42",Už,1
-2311011,Už,36226,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 14:51:42",Už,1
-2311012,Už,36226,46308248,"Valerij Stankevič","Valerij Stankevič","2017-05-17 14:51:42",Už,1
-2311013,Už,36226,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 14:51:42",Už,1
-2311014,Už,36226,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 14:51:42",Už,1
-2311015,Už,36226,46308248,"Artūras Zuokas","Artūras Zuokas","2017-05-17 14:51:42",Už,1
-2311016,Prieš,36226,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 14:51:42",Prieš,3
-2311017,Prieš,36226,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 14:51:42",Prieš,3
-2311018,Prieš,36226,46308248,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-17 14:51:42",Prieš,3
-2311019,Prieš,36226,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 14:51:42",Prieš,3
-2311020,Prieš,36226,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 14:51:42",Prieš,3
-2311021,Susilaikė,36226,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 14:51:42",Susilaikė,2
-2311022,Susilaikė,36226,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 14:51:42",Susilaikė,2
-2311023,Susilaikė,36226,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 14:51:42",Susilaikė,2
-2311024,Susilaikė,36226,46308248,"Mark Harold","Mark Harold","2017-05-17 14:51:42",Susilaikė,2
-2311025,Susilaikė,36226,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 14:51:42",Susilaikė,2
-2311026,Susilaikė,36226,46308248,"Audronis Imbrasas","Audronis Imbrasas","2017-05-17 14:51:42",Susilaikė,2
-2311027,Susilaikė,36226,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 14:51:42",Susilaikė,2
-2311028,Susilaikė,36226,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 14:51:42",Susilaikė,2
-2311029,Susilaikė,36226,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 14:51:42",Susilaikė,2
-2311030,Susilaikė,36226,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 14:51:42",Susilaikė,2
-2311031,Susilaikė,36226,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 14:51:42",Susilaikė,2
-2311032,Susilaikė,36226,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 14:51:42",Susilaikė,2
-2311033,Susilaikė,36226,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 14:51:42",Susilaikė,2
-2311034,Susilaikė,36226,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 14:51:42",Susilaikė,2
-2311035,Susilaikė,36226,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 14:51:42",Susilaikė,2
-2311036,Susilaikė,36226,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 14:51:42",Susilaikė,2
-2311037,Susilaikė,36226,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 14:51:42",Susilaikė,2
-2311038,Už,36227,46308248,Šimašius,Šimašius,"2017-05-17 16:04:22",Už,1
-2311039,Už,36228,46308248,Šimašius,Šimašius,"2017-05-17 16:06:25",Už,1
-2311040,Už,36229,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 16:07:27",Už,1
-2311041,Už,36229,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 16:07:27",Už,1
-2311042,Už,36229,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 16:07:27",Už,1
-2311043,Už,36229,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 16:07:27",Už,1
-2311044,Už,36229,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 16:07:27",Už,1
-2311045,Už,36229,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 16:07:27",Už,1
-2311046,Už,36229,46308248,"Audronis Imbrasas","Audronis Imbrasas","2017-05-17 16:07:27",Už,1
-2311047,Už,36229,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 16:07:27",Už,1
-2311048,Už,36229,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 16:07:27",Už,1
-2311049,Už,36229,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 16:07:27",Už,1
-2311050,Už,36229,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 16:07:27",Už,1
-2311051,Už,36229,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 16:07:27",Už,1
-2311052,Už,36229,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 16:07:27",Už,1
-2311053,Už,36229,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 16:07:27",Už,1
-2311054,Už,36229,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 16:07:27",Už,1
-2311055,Už,36229,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 16:07:27",Už,1
-2311056,Už,36229,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 16:07:27",Už,1
-2311057,Už,36229,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 16:07:27",Už,1
-2311058,Už,36229,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 16:07:27",Už,1
-2311059,Už,36229,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 16:07:27",Už,1
-2311060,Už,36229,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 16:07:27",Už,1
-2311061,Už,36229,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 16:07:27",Už,1
-2311062,Už,36229,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 16:07:27",Už,1
-2311063,Už,36229,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 16:07:27",Už,1
-2311064,Už,36229,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 16:07:27",Už,1
-2311065,Už,36229,46308248,"Artūras Zuokas","Artūras Zuokas","2017-05-17 16:07:27",Už,1
-2311066,Susilaikė,36229,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 16:07:27",Susilaikė,2
-2311067,Susilaikė,36229,46308248,"Mark Harold","Mark Harold","2017-05-17 16:07:27",Susilaikė,2
-2311068,Susilaikė,36229,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 16:07:27",Susilaikė,2
-2311069,Susilaikė,36229,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 16:07:27",Susilaikė,2
-2311070,Susilaikė,36229,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 16:07:27",Susilaikė,2
-2311071,Susilaikė,36229,46308248,"Gžegož Sakson","Gžegož Sakson","2017-05-17 16:07:27",Susilaikė,2
-2311072,Susilaikė,36229,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 16:07:27",Susilaikė,2
-2311073,Už,36230,46308248,Šimašius,Šimašius,"2017-05-17 16:10:00",Už,1
-2311074,Už,36231,46308248,Šimašius,Šimašius,"2017-05-17 16:10:22",Už,1
-2311075,Už,36232,46308248,Šimašius,Šimašius,"2017-05-17 16:11:00",Už,1
-2311076,Už,36233,46308248,Šimašius,Šimašius,"2017-05-17 16:17:28",Už,1
-2311077,Už,36235,46308248,Šimašius,Šimašius,"2017-05-17 16:22:49",Už,1
-2311078,Už,36236,46308248,Šimašius,Šimašius,"2017-05-17 16:22:50",Už,1
-2311079,Už,36238,46308248,Šimašius,Šimašius,"2017-05-17 16:24:22",Už,1
-2311080,Už,36239,46308248,Šimašius,Šimašius,"2017-05-17 16:32:49",Už,1
-2311081,Už,36240,46308248,Šimašius,Šimašius,"2017-05-17 16:34:27",Už,1
-2311082,Už,36241,46308248,Šimašius,Šimašius,"2017-05-17 16:34:53",Už,1
-2311083,Už,36242,46308248,Šimašius,Šimašius,"2017-05-17 16:38:09",Už,1
-2311084,Už,36243,46308248,Šimašius,Šimašius,"2017-05-17 16:44:38",Už,1
-2311085,Už,36244,46308248,Šimašius,Šimašius,"2017-05-17 16:49:55",Už,1
-2311086,Už,36245,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 16:58:08",Už,1
-2311087,Už,36245,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 16:58:08",Už,1
-2311088,Už,36245,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 16:58:08",Už,1
-2311089,Už,36245,46308248,"Mark Harold","Mark Harold","2017-05-17 16:58:08",Už,1
-2311090,Už,36245,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 16:58:08",Už,1
-2311091,Už,36245,46308248,"Audronis Imbrasas","Audronis Imbrasas","2017-05-17 16:58:08",Už,1
-2311092,Už,36245,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 16:58:08",Už,1
-2311093,Už,36245,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 16:58:08",Už,1
-2311094,Už,36245,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 16:58:08",Už,1
-2311095,Už,36245,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 16:58:08",Už,1
-2311096,Už,36245,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 16:58:08",Už,1
-2311097,Už,36245,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 16:58:08",Už,1
-2311098,Už,36245,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 16:58:08",Už,1
-2311099,Už,36245,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 16:58:08",Už,1
-2311100,Už,36245,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 16:58:08",Už,1
-2311101,Už,36245,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 16:58:08",Už,1
-2311102,Už,36245,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 16:58:08",Už,1
-2311103,Prieš,36245,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 16:58:08",Prieš,3
-2311104,Prieš,36245,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 16:58:08",Prieš,3
-2311105,Prieš,36245,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 16:58:08",Prieš,3
-2311106,Prieš,36245,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 16:58:08",Prieš,3
-2311107,Prieš,36245,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 16:58:08",Prieš,3
-2311108,Prieš,36245,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 16:58:08",Prieš,3
-2311109,Prieš,36245,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 16:58:08",Prieš,3
-2311110,Prieš,36245,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 16:58:08",Prieš,3
-2311111,Prieš,36245,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 16:58:08",Prieš,3
-2311112,Prieš,36245,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 16:58:08",Prieš,3
-2311113,Prieš,36245,46308248,"Edita Šiško","Edita Šiško","2017-05-17 16:58:08",Prieš,3
-2311114,Prieš,36245,46308248,"Aldona Šventickienė","Aldona Šventickienė","2017-05-17 16:58:08",Prieš,3
-2311115,Prieš,36245,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 16:58:08",Prieš,3
-2311116,Prieš,36245,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 16:58:08",Prieš,3
-2311117,Prieš,36245,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 16:58:08",Prieš,3
-2311118,Susilaikė,36245,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 16:58:08",Susilaikė,2
-2311119,Susilaikė,36245,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 16:58:08",Susilaikė,2
-2311120,Susilaikė,36245,46308248,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-17 16:58:08",Susilaikė,2
-2311121,Už,36246,46308248,Šimašius,Šimašius,"2017-05-17 17:00:05",Už,1
-2311122,Už,36247,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 17:03:50",Už,1
-2311123,Už,36247,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 17:03:50",Už,1
-2311124,Už,36247,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 17:03:50",Už,1
-2311125,Už,36247,46308248,"Mark Harold","Mark Harold","2017-05-17 17:03:50",Už,1
-2311126,Už,36247,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 17:03:50",Už,1
-2311127,Už,36247,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 17:03:50",Už,1
-2311128,Už,36247,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 17:03:50",Už,1
-2311129,Už,36247,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 17:03:50",Už,1
-2311130,Už,36247,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 17:03:50",Už,1
-2311131,Už,36247,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 17:03:50",Už,1
-2311132,Už,36247,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 17:03:50",Už,1
-2311133,Už,36247,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 17:03:50",Už,1
-2311134,Už,36247,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 17:03:50",Už,1
-2311135,Už,36247,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 17:03:50",Už,1
-2311136,Už,36247,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 17:03:50",Už,1
-2311137,Už,36247,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 17:03:50",Už,1
-2311138,Už,36247,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 17:03:50",Už,1
-2311139,Už,36247,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 17:03:50",Už,1
-2311140,Už,36247,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 17:03:50",Už,1
-2311141,Už,36247,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 17:03:50",Už,1
-2311142,Už,36247,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 17:03:50",Už,1
-2311143,Už,36247,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 17:03:50",Už,1
-2311144,Už,36247,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 17:03:50",Už,1
-2311145,Už,36247,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 17:03:50",Už,1
-2311146,Už,36247,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 17:03:50",Už,1
-2311147,Už,36247,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 17:03:50",Už,1
-2311148,Prieš,36247,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 17:03:50",Prieš,3
-2311149,Prieš,36247,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 17:03:50",Prieš,3
-2311150,Prieš,36247,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 17:03:50",Prieš,3
-2311151,Prieš,36247,46308248,"Aldona Šventickienė","Aldona Šventickienė","2017-05-17 17:03:50",Prieš,3
-2311152,Susilaikė,36247,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 17:03:50",Susilaikė,2
-2311153,Susilaikė,36247,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 17:03:50",Susilaikė,2
-2311154,Susilaikė,36247,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 17:03:50",Susilaikė,2
-2311155,Susilaikė,36247,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 17:03:50",Susilaikė,2
-2311156,Susilaikė,36247,46308248,"Edita Šiško","Edita Šiško","2017-05-17 17:03:50",Susilaikė,2
-2311157,Susilaikė,36247,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 17:03:50",Susilaikė,2
-2311158,Už,36248,46308248,Šimašius,Šimašius,"2017-05-17 17:06:30",Už,1
-2311159,Už,36249,46308248,Šimašius,Šimašius,"2017-05-17 17:06:57",Už,1
-2311160,Už,36251,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 17:23:20",Už,1
-2311161,Už,36251,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 17:23:20",Už,1
-2311162,Už,36251,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 17:23:20",Už,1
-2311163,Už,36251,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 17:23:20",Už,1
-2311164,Už,36251,46308248,"Mark Harold","Mark Harold","2017-05-17 17:23:20",Už,1
-2311165,Už,36251,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 17:23:20",Už,1
-2311166,Už,36251,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 17:23:20",Už,1
-2311167,Už,36251,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 17:23:20",Už,1
-2311168,Už,36251,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 17:23:20",Už,1
-2311169,Už,36251,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 17:23:20",Už,1
-2311170,Už,36251,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 17:23:20",Už,1
-2311171,Už,36251,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 17:23:20",Už,1
-2311172,Už,36251,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 17:23:20",Už,1
-2311173,Už,36251,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 17:23:20",Už,1
-2311174,Už,36251,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 17:23:20",Už,1
-2311175,Už,36251,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 17:23:20",Už,1
-2311176,Už,36251,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 17:23:20",Už,1
-2311177,Už,36251,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 17:23:20",Už,1
-2311178,Už,36251,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 17:23:20",Už,1
-2311179,Už,36251,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 17:23:20",Už,1
-2311180,Už,36251,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 17:23:20",Už,1
-2311181,Prieš,36251,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 17:23:20",Prieš,3
-2311182,Prieš,36251,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 17:23:20",Prieš,3
-2311183,Prieš,36251,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 17:23:20",Prieš,3
-2311184,Prieš,36251,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 17:23:20",Prieš,3
-2311185,Prieš,36251,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 17:23:20",Prieš,3
-2311186,Prieš,36251,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 17:23:20",Prieš,3
-2311187,Prieš,36251,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 17:23:20",Prieš,3
-2311188,Prieš,36251,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 17:23:20",Prieš,3
-2311189,Prieš,36251,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 17:23:20",Prieš,3
-2311190,Prieš,36251,46308248,"Edita Šiško","Edita Šiško","2017-05-17 17:23:20",Prieš,3
-2311191,Prieš,36251,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 17:23:20",Prieš,3
-2311192,Susilaikė,36251,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 17:23:20",Susilaikė,2
-2311193,Susilaikė,36251,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 17:23:20",Susilaikė,2
-2311194,Susilaikė,36251,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 17:23:20",Susilaikė,2
-2311195,Už,36252,46308248,Šimašius,Šimašius,"2017-05-17 17:24:36",Už,1
-2311196,Už,36253,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 17:35:21",Už,1
-2311197,Už,36253,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 17:35:21",Už,1
-2311198,Už,36253,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 17:35:21",Už,1
-2311199,Už,36253,46308248,"Mark Harold","Mark Harold","2017-05-17 17:35:21",Už,1
-2311200,Už,36253,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 17:35:21",Už,1
-2311201,Už,36253,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 17:35:21",Už,1
-2311202,Už,36253,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 17:35:21",Už,1
-2311203,Už,36253,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 17:35:21",Už,1
-2311204,Už,36253,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 17:35:21",Už,1
-2311205,Už,36253,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 17:35:21",Už,1
-2311206,Už,36253,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 17:35:21",Už,1
-2311207,Už,36253,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 17:35:21",Už,1
-2311208,Už,36253,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 17:35:21",Už,1
-2311209,Už,36253,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 17:35:21",Už,1
-2311210,Už,36253,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 17:35:21",Už,1
-2311211,Už,36253,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 17:35:21",Už,1
-2311212,Už,36253,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 17:35:21",Už,1
-2311213,Už,36253,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 17:35:21",Už,1
-2311214,Už,36253,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 17:35:21",Už,1
-2311215,Už,36253,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 17:35:21",Už,1
-2311216,Už,36253,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 17:35:21",Už,1
-2311217,Prieš,36253,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 17:35:21",Prieš,3
-2311218,Prieš,36253,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 17:35:21",Prieš,3
-2311219,Susilaikė,36253,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 17:35:21",Susilaikė,2
-2311220,Susilaikė,36253,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 17:35:21",Susilaikė,2
-2311221,Susilaikė,36253,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 17:35:21",Susilaikė,2
-2311222,Susilaikė,36253,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 17:35:21",Susilaikė,2
-2311223,Už,36254,46308248,Šimašius,Šimašius,"2017-05-17 17:36:22",Už,1
-2311224,Už,36255,46308248,Šimašius,Šimašius,"2017-05-17 17:38:29",Už,1
-2311225,Už,36256,46308248,Šimašius,Šimašius,"2017-05-17 17:38:29",Už,1
-2311226,Už,36257,46308248,Šimašius,Šimašius,"2017-05-17 17:38:30",Už,1
-2311227,Už,36258,46308248,Šimašius,Šimašius,"2017-05-17 17:38:30",Už,1
-2311228,Už,36259,46308248,Šimašius,Šimašius,"2017-05-17 17:38:31",Už,1
-2311229,Už,36237,46308248,Šimašius,Šimašius,"2017-05-17 16:22:50",Už,1
+2311276,Už,36260,46308248,Šimašius,Šimašius,"2017-05-17 15:15:11",Už,1
+2311277,Už,36261,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
+2311278,Už,36209,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
+2311279,Už,36210,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
+2311280,Už,36211,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
+2311281,Už,36212,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 14:21:30",Už,1
+2311282,Už,36212,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 14:21:30",Už,1
+2311283,Už,36212,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 14:21:30",Už,1
+2311284,Už,36212,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 14:21:30",Už,1
+2311285,Už,36212,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 14:21:30",Už,1
+2311286,Už,36212,46308248,"Audronis Imbrasas","Audronis Imbrasas","2017-05-17 14:21:30",Už,1
+2311287,Už,36212,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 14:21:30",Už,1
+2311288,Už,36212,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 14:21:30",Už,1
+2311289,Už,36212,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 14:21:30",Už,1
+2311290,Už,36212,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 14:21:30",Už,1
+2311291,Už,36212,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 14:21:30",Už,1
+2311292,Už,36212,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 14:21:30",Už,1
+2311293,Už,36212,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 14:21:30",Už,1
+2311294,Už,36212,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 14:21:30",Už,1
+2311295,Už,36212,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 14:21:30",Už,1
+2311296,Už,36212,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 14:21:30",Už,1
+2311297,Už,36212,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 14:21:30",Už,1
+2311298,Už,36212,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 14:21:30",Už,1
+2311299,Už,36212,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 14:21:30",Už,1
+2311300,Už,36212,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 14:21:30",Už,1
+2311301,Už,36212,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 14:21:30",Už,1
+2311302,Už,36212,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 14:21:30",Už,1
+2311303,Už,36212,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 14:21:30",Už,1
+2311304,Už,36212,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 14:21:30",Už,1
+2311305,Už,36212,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 14:21:30",Už,1
+2311306,Prieš,36212,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 14:21:30",Prieš,3
+2311307,Prieš,36212,46308248,"Artur Liudkovski","Artur Liudkovski","2017-05-17 14:21:30",Prieš,3
+2311308,Prieš,36212,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 14:21:30",Prieš,3
+2311309,Prieš,36212,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 14:21:30",Prieš,3
+2311310,Prieš,36212,46308248,"Gžegož Sakson","Gžegož Sakson","2017-05-17 14:21:30",Prieš,3
+2311311,Prieš,36212,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 14:21:30",Prieš,3
+2311312,Prieš,36212,46308248,"Edita Šiško","Edita Šiško","2017-05-17 14:21:30",Prieš,3
+2311313,Prieš,36212,46308248,"Artūras Zuokas","Artūras Zuokas","2017-05-17 14:21:30",Prieš,3
+2311314,Susilaikė,36212,46308248,"Algis Čaplikas","Algis Čaplikas","2017-05-17 14:21:30",Susilaikė,2
+2311315,Susilaikė,36212,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 14:21:30",Susilaikė,2
+2311316,Susilaikė,36212,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 14:21:30",Susilaikė,2
+2311317,Susilaikė,36212,46308248,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-17 14:21:30",Susilaikė,2
+2311318,Susilaikė,36212,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 14:21:30",Susilaikė,2
+2311319,Susilaikė,36212,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 14:21:30",Susilaikė,2
+2311320,Susilaikė,36212,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 14:21:30",Susilaikė,2
+2311321,Susilaikė,36212,46308248,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-17 14:21:30",Susilaikė,2
+2311322,Susilaikė,36212,46308248,"Aldona Šventickienė","Aldona Šventickienė","2017-05-17 14:21:30",Susilaikė,2
+2311323,Susilaikė,36212,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 14:21:30",Susilaikė,2
+2311324,Susilaikė,36212,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 14:21:30",Susilaikė,2
+2311325,Susilaikė,36212,46308248,"Valerij Stankevič","Valerij Stankevič","2017-05-17 14:21:30",Susilaikė,2
+2311326,Susilaikė,36212,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 14:21:30",Susilaikė,2
+2311327,Už,36213,46308248,Šimašius,Šimašius,"2017-05-17 15:15:12",Už,1
+2311328,Už,36214,46308248,Šimašius,Šimašius,"2017-05-17 15:15:13",Už,1
+2311329,Už,36215,46308248,Šimašius,Šimašius,"2017-05-17 15:15:13",Už,1
+2311330,Už,36216,46308248,Šimašius,Šimašius,"2017-05-17 15:15:13",Už,1
+2311331,Už,36217,46308248,Šimašius,Šimašius,"2017-05-17 15:15:13",Už,1
+2311332,Už,36218,46308248,Šimašius,Šimašius,"2017-05-17 15:15:14",Už,1
+2311333,Už,36219,46308248,Šimašius,Šimašius,"2017-05-17 15:15:14",Už,1
+2311334,Už,36220,46308248,Šimašius,Šimašius,"2017-05-17 15:15:14",Už,1
+2311335,Už,36221,46308248,Šimašius,Šimašius,"2017-05-17 15:15:14",Už,1
+2311336,Už,36222,46308248,Šimašius,Šimašius,"2017-05-17 15:15:15",Už,1
+2311337,Už,36226,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 14:51:42",Už,1
+2311338,Už,36226,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 14:51:42",Už,1
+2311339,Už,36226,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 14:51:42",Už,1
+2311340,Už,36226,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 14:51:42",Už,1
+2311341,Už,36226,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 14:51:42",Už,1
+2311342,Už,36226,46308248,"Artur Liudkovski","Artur Liudkovski","2017-05-17 14:51:42",Už,1
+2311343,Už,36226,46308248,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-17 14:51:42",Už,1
+2311344,Už,36226,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 14:51:42",Už,1
+2311345,Už,36226,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 14:51:42",Už,1
+2311346,Už,36226,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 14:51:42",Už,1
+2311347,Už,36226,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 14:51:42",Už,1
+2311348,Už,36226,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 14:51:42",Už,1
+2311349,Už,36226,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 14:51:42",Už,1
+2311350,Už,36226,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 14:51:42",Už,1
+2311351,Už,36226,46308248,"Gžegož Sakson","Gžegož Sakson","2017-05-17 14:51:42",Už,1
+2311352,Už,36226,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 14:51:42",Už,1
+2311353,Už,36226,46308248,"Edita Šiško","Edita Šiško","2017-05-17 14:51:42",Už,1
+2311354,Už,36226,46308248,"Aldona Šventickienė","Aldona Šventickienė","2017-05-17 14:51:42",Už,1
+2311355,Už,36226,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 14:51:42",Už,1
+2311356,Už,36226,46308248,"Valerij Stankevič","Valerij Stankevič","2017-05-17 14:51:42",Už,1
+2311357,Už,36226,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 14:51:42",Už,1
+2311358,Už,36226,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 14:51:42",Už,1
+2311359,Už,36226,46308248,"Artūras Zuokas","Artūras Zuokas","2017-05-17 14:51:42",Už,1
+2311360,Prieš,36226,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 14:51:42",Prieš,3
+2311361,Prieš,36226,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 14:51:42",Prieš,3
+2311362,Prieš,36226,46308248,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-17 14:51:42",Prieš,3
+2311363,Prieš,36226,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 14:51:42",Prieš,3
+2311364,Prieš,36226,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 14:51:42",Prieš,3
+2311365,Susilaikė,36226,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 14:51:42",Susilaikė,2
+2311366,Susilaikė,36226,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 14:51:42",Susilaikė,2
+2311367,Susilaikė,36226,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 14:51:42",Susilaikė,2
+2311368,Susilaikė,36226,46308248,"Mark Harold","Mark Harold","2017-05-17 14:51:42",Susilaikė,2
+2311369,Susilaikė,36226,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 14:51:42",Susilaikė,2
+2311370,Susilaikė,36226,46308248,"Audronis Imbrasas","Audronis Imbrasas","2017-05-17 14:51:42",Susilaikė,2
+2311371,Susilaikė,36226,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 14:51:42",Susilaikė,2
+2311372,Susilaikė,36226,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 14:51:42",Susilaikė,2
+2311373,Susilaikė,36226,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 14:51:42",Susilaikė,2
+2311374,Susilaikė,36226,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 14:51:42",Susilaikė,2
+2311375,Susilaikė,36226,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 14:51:42",Susilaikė,2
+2311376,Susilaikė,36226,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 14:51:42",Susilaikė,2
+2311377,Susilaikė,36226,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 14:51:42",Susilaikė,2
+2311378,Susilaikė,36226,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 14:51:42",Susilaikė,2
+2311379,Susilaikė,36226,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 14:51:42",Susilaikė,2
+2311380,Susilaikė,36226,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 14:51:42",Susilaikė,2
+2311381,Susilaikė,36226,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 14:51:42",Susilaikė,2
+2311382,Už,36227,46308248,Šimašius,Šimašius,"2017-05-17 16:04:22",Už,1
+2311383,Už,36228,46308248,Šimašius,Šimašius,"2017-05-17 16:06:25",Už,1
+2311384,Už,36229,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 16:07:27",Už,1
+2311385,Už,36229,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 16:07:27",Už,1
+2311386,Už,36229,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 16:07:27",Už,1
+2311387,Už,36229,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 16:07:27",Už,1
+2311388,Už,36229,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 16:07:27",Už,1
+2311389,Už,36229,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 16:07:27",Už,1
+2311390,Už,36229,46308248,"Audronis Imbrasas","Audronis Imbrasas","2017-05-17 16:07:27",Už,1
+2311391,Už,36229,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 16:07:27",Už,1
+2311392,Už,36229,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 16:07:27",Už,1
+2311393,Už,36229,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 16:07:27",Už,1
+2311394,Už,36229,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 16:07:27",Už,1
+2311395,Už,36229,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 16:07:27",Už,1
+2311396,Už,36229,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 16:07:27",Už,1
+2311397,Už,36229,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 16:07:27",Už,1
+2311398,Už,36229,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 16:07:27",Už,1
+2311399,Už,36229,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 16:07:27",Už,1
+2311400,Už,36229,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 16:07:27",Už,1
+2311401,Už,36229,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 16:07:27",Už,1
+2311402,Už,36229,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 16:07:27",Už,1
+2311403,Už,36229,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 16:07:27",Už,1
+2311404,Už,36229,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 16:07:27",Už,1
+2311405,Už,36229,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 16:07:27",Už,1
+2311406,Už,36229,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 16:07:27",Už,1
+2311407,Už,36229,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 16:07:27",Už,1
+2311408,Už,36229,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 16:07:27",Už,1
+2311409,Už,36229,46308248,"Artūras Zuokas","Artūras Zuokas","2017-05-17 16:07:27",Už,1
+2311410,Susilaikė,36229,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 16:07:27",Susilaikė,2
+2311411,Susilaikė,36229,46308248,"Mark Harold","Mark Harold","2017-05-17 16:07:27",Susilaikė,2
+2311412,Susilaikė,36229,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 16:07:27",Susilaikė,2
+2311413,Susilaikė,36229,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 16:07:27",Susilaikė,2
+2311414,Susilaikė,36229,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 16:07:27",Susilaikė,2
+2311415,Susilaikė,36229,46308248,"Gžegož Sakson","Gžegož Sakson","2017-05-17 16:07:27",Susilaikė,2
+2311416,Susilaikė,36229,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 16:07:27",Susilaikė,2
+2311417,Už,36230,46308248,Šimašius,Šimašius,"2017-05-17 16:10:00",Už,1
+2311418,Už,36231,46308248,Šimašius,Šimašius,"2017-05-17 16:10:22",Už,1
+2311419,Už,36232,46308248,Šimašius,Šimašius,"2017-05-17 16:11:00",Už,1
+2311420,Už,36233,46308248,Šimašius,Šimašius,"2017-05-17 16:17:28",Už,1
+2311421,Už,36235,46308248,Šimašius,Šimašius,"2017-05-17 16:22:49",Už,1
+2311422,Už,36236,46308248,Šimašius,Šimašius,"2017-05-17 16:22:50",Už,1
+2311423,Už,36237,46308248,Šimašius,Šimašius,"2017-05-17 16:22:50",Už,1
+2311424,Už,36238,46308248,Šimašius,Šimašius,"2017-05-17 16:24:22",Už,1
+2311425,Už,36239,46308248,Šimašius,Šimašius,"2017-05-17 16:32:49",Už,1
+2311426,Už,36240,46308248,Šimašius,Šimašius,"2017-05-17 16:34:27",Už,1
+2311427,Už,36241,46308248,Šimašius,Šimašius,"2017-05-17 16:34:53",Už,1
+2311428,Už,36242,46308248,Šimašius,Šimašius,"2017-05-17 16:38:09",Už,1
+2311429,Už,36243,46308248,Šimašius,Šimašius,"2017-05-17 16:44:38",Už,1
+2311430,Už,36244,46308248,Šimašius,Šimašius,"2017-05-17 16:49:55",Už,1
+2311431,Už,36245,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 16:58:08",Už,1
+2311432,Už,36245,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 16:58:08",Už,1
+2311433,Už,36245,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 16:58:08",Už,1
+2311434,Už,36245,46308248,"Mark Harold","Mark Harold","2017-05-17 16:58:08",Už,1
+2311435,Už,36245,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 16:58:08",Už,1
+2311436,Už,36245,46308248,"Audronis Imbrasas","Audronis Imbrasas","2017-05-17 16:58:08",Už,1
+2311437,Už,36245,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 16:58:08",Už,1
+2311438,Už,36245,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 16:58:08",Už,1
+2311439,Už,36245,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 16:58:08",Už,1
+2311440,Už,36245,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 16:58:08",Už,1
+2311441,Už,36245,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 16:58:08",Už,1
+2311442,Už,36245,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 16:58:08",Už,1
+2311443,Už,36245,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 16:58:08",Už,1
+2311444,Už,36245,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 16:58:08",Už,1
+2311445,Už,36245,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 16:58:08",Už,1
+2311446,Už,36245,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 16:58:08",Už,1
+2311447,Už,36245,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 16:58:08",Už,1
+2311448,Prieš,36245,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 16:58:08",Prieš,3
+2311449,Prieš,36245,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 16:58:08",Prieš,3
+2311450,Prieš,36245,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 16:58:08",Prieš,3
+2311451,Prieš,36245,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 16:58:08",Prieš,3
+2311452,Prieš,36245,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 16:58:08",Prieš,3
+2311453,Prieš,36245,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 16:58:08",Prieš,3
+2311454,Prieš,36245,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 16:58:08",Prieš,3
+2311455,Prieš,36245,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 16:58:08",Prieš,3
+2311456,Prieš,36245,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 16:58:08",Prieš,3
+2311457,Prieš,36245,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 16:58:08",Prieš,3
+2311458,Prieš,36245,46308248,"Edita Šiško","Edita Šiško","2017-05-17 16:58:08",Prieš,3
+2311459,Prieš,36245,46308248,"Aldona Šventickienė","Aldona Šventickienė","2017-05-17 16:58:08",Prieš,3
+2311460,Prieš,36245,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 16:58:08",Prieš,3
+2311461,Prieš,36245,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 16:58:08",Prieš,3
+2311462,Prieš,36245,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 16:58:08",Prieš,3
+2311463,Susilaikė,36245,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 16:58:08",Susilaikė,2
+2311464,Susilaikė,36245,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 16:58:08",Susilaikė,2
+2311465,Susilaikė,36245,46308248,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-17 16:58:08",Susilaikė,2
+2311466,Už,36246,46308248,Šimašius,Šimašius,"2017-05-17 17:00:05",Už,1
+2311467,Už,36247,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 17:03:50",Už,1
+2311468,Už,36247,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 17:03:50",Už,1
+2311469,Už,36247,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 17:03:50",Už,1
+2311470,Už,36247,46308248,"Mark Harold","Mark Harold","2017-05-17 17:03:50",Už,1
+2311471,Už,36247,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 17:03:50",Už,1
+2311472,Už,36247,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 17:03:50",Už,1
+2311473,Už,36247,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 17:03:50",Už,1
+2311474,Už,36247,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 17:03:50",Už,1
+2311475,Už,36247,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 17:03:50",Už,1
+2311476,Už,36247,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 17:03:50",Už,1
+2311477,Už,36247,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 17:03:50",Už,1
+2311478,Už,36247,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 17:03:50",Už,1
+2311479,Už,36247,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 17:03:50",Už,1
+2311480,Už,36247,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 17:03:50",Už,1
+2311481,Už,36247,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 17:03:50",Už,1
+2311482,Už,36247,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 17:03:50",Už,1
+2311483,Už,36247,46308248,"Gintautas Paluckas","Gintautas Paluckas","2017-05-17 17:03:50",Už,1
+2311484,Už,36247,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 17:03:50",Už,1
+2311485,Už,36247,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 17:03:50",Už,1
+2311486,Už,36247,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 17:03:50",Už,1
+2311487,Už,36247,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 17:03:50",Už,1
+2311488,Už,36247,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 17:03:50",Už,1
+2311489,Už,36247,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 17:03:50",Už,1
+2311490,Už,36247,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 17:03:50",Už,1
+2311491,Už,36247,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 17:03:50",Už,1
+2311492,Už,36247,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 17:03:50",Už,1
+2311493,Prieš,36247,46308248,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-17 17:03:50",Prieš,3
+2311494,Prieš,36247,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 17:03:50",Prieš,3
+2311495,Prieš,36247,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 17:03:50",Prieš,3
+2311496,Prieš,36247,46308248,"Aldona Šventickienė","Aldona Šventickienė","2017-05-17 17:03:50",Prieš,3
+2311497,Susilaikė,36247,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 17:03:50",Susilaikė,2
+2311498,Susilaikė,36247,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 17:03:50",Susilaikė,2
+2311499,Susilaikė,36247,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 17:03:50",Susilaikė,2
+2311500,Susilaikė,36247,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 17:03:50",Susilaikė,2
+2311501,Susilaikė,36247,46308248,"Edita Šiško","Edita Šiško","2017-05-17 17:03:50",Susilaikė,2
+2311502,Susilaikė,36247,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 17:03:50",Susilaikė,2
+2311503,Už,36248,46308248,Šimašius,Šimašius,"2017-05-17 17:06:30",Už,1
+2311504,Už,36249,46308248,Šimašius,Šimašius,"2017-05-17 17:06:57",Už,1
+2311505,Už,36251,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 17:23:20",Už,1
+2311506,Už,36251,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 17:23:20",Už,1
+2311507,Už,36251,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 17:23:20",Už,1
+2311508,Už,36251,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 17:23:20",Už,1
+2311509,Už,36251,46308248,"Mark Harold","Mark Harold","2017-05-17 17:23:20",Už,1
+2311510,Už,36251,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 17:23:20",Už,1
+2311511,Už,36251,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 17:23:20",Už,1
+2311512,Už,36251,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 17:23:20",Už,1
+2311513,Už,36251,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 17:23:20",Už,1
+2311514,Už,36251,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 17:23:20",Už,1
+2311515,Už,36251,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 17:23:20",Už,1
+2311516,Už,36251,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 17:23:20",Už,1
+2311517,Už,36251,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 17:23:20",Už,1
+2311518,Už,36251,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 17:23:20",Už,1
+2311519,Už,36251,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 17:23:20",Už,1
+2311520,Už,36251,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 17:23:20",Už,1
+2311521,Už,36251,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 17:23:20",Už,1
+2311522,Už,36251,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 17:23:20",Už,1
+2311523,Už,36251,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 17:23:20",Už,1
+2311524,Už,36251,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 17:23:20",Už,1
+2311525,Už,36251,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 17:23:20",Už,1
+2311526,Prieš,36251,46308248,"Renata Cytacka","Renata Cytacka","2017-05-17 17:23:20",Prieš,3
+2311527,Prieš,36251,46308248,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-17 17:23:20",Prieš,3
+2311528,Prieš,36251,46308248,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-17 17:23:20",Prieš,3
+2311529,Prieš,36251,46308248,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-17 17:23:20",Prieš,3
+2311530,Prieš,36251,46308248,"Rafael Muksinov","Rafael Muksinov","2017-05-17 17:23:20",Prieš,3
+2311531,Prieš,36251,46308248,"Kęstutis Nėnius","Kęstutis Nėnius","2017-05-17 17:23:20",Prieš,3
+2311532,Prieš,36251,46308248,"Juozas Olekas","Juozas Olekas","2017-05-17 17:23:20",Prieš,3
+2311533,Prieš,36251,46308248,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-17 17:23:20",Prieš,3
+2311534,Prieš,36251,46308248,"Žilvinas Šilgalis","Žilvinas Šilgalis","2017-05-17 17:23:20",Prieš,3
+2311535,Prieš,36251,46308248,"Edita Šiško","Edita Šiško","2017-05-17 17:23:20",Prieš,3
+2311536,Prieš,36251,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 17:23:20",Prieš,3
+2311537,Susilaikė,36251,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 17:23:20",Susilaikė,2
+2311538,Susilaikė,36251,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 17:23:20",Susilaikė,2
+2311539,Susilaikė,36251,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 17:23:20",Susilaikė,2
+2311540,Už,36252,46308248,Šimašius,Šimašius,"2017-05-17 17:24:36",Už,1
+2311541,Už,36253,46308248,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-17 17:35:21",Už,1
+2311542,Už,36253,46308248,"Danutė Bekintienė","Danutė Bekintienė","2017-05-17 17:35:21",Už,1
+2311543,Už,36253,46308248,"Adomas Bužinskas","Adomas Bužinskas","2017-05-17 17:35:21",Už,1
+2311544,Už,36253,46308248,"Mark Harold","Mark Harold","2017-05-17 17:35:21",Už,1
+2311545,Už,36253,46308248,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-17 17:35:21",Už,1
+2311546,Už,36253,46308248,"Vincas Jurgutis","Vincas Jurgutis","2017-05-17 17:35:21",Už,1
+2311547,Už,36253,46308248,"Andrius Katinas","Andrius Katinas","2017-05-17 17:35:21",Už,1
+2311548,Už,36253,46308248,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-17 17:35:21",Už,1
+2311549,Už,36253,46308248,"Darius Kuolys","Darius Kuolys","2017-05-17 17:35:21",Už,1
+2311550,Už,36253,46308248,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-17 17:35:21",Už,1
+2311551,Už,36253,46308248,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-17 17:35:21",Už,1
+2311552,Už,36253,46308248,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-17 17:35:21",Už,1
+2311553,Už,36253,46308248,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-17 17:35:21",Už,1
+2311554,Už,36253,46308248,"Vytautas Mitalas","Vytautas Mitalas","2017-05-17 17:35:21",Už,1
+2311555,Už,36253,46308248,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-17 17:35:21",Už,1
+2311556,Už,36253,46308248,"Remigijus Šimašius","Remigijus Šimašius","2017-05-17 17:35:21",Už,1
+2311557,Už,36253,46308248,"Gediminas Švilpa","Gediminas Švilpa","2017-05-17 17:35:21",Už,1
+2311558,Už,36253,46308248,"Šarūnas Skučas","Šarūnas Skučas","2017-05-17 17:35:21",Už,1
+2311559,Už,36253,46308248,"Liutauras Stoškus","Liutauras Stoškus","2017-05-17 17:35:21",Už,1
+2311560,Už,36253,46308248,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-17 17:35:21",Už,1
+2311561,Už,36253,46308248,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-17 17:35:21",Už,1
+2311562,Prieš,36253,46308248,"Marius Skarupskas","Marius Skarupskas","2017-05-17 17:35:21",Prieš,3
+2311563,Prieš,36253,46308248,"Gintautas Terleckas","Gintautas Terleckas","2017-05-17 17:35:21",Prieš,3
+2311564,Susilaikė,36253,46308248,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-17 17:35:21",Susilaikė,2
+2311565,Susilaikė,36253,46308248,"Bronius Cicėnas","Bronius Cicėnas","2017-05-17 17:35:21",Susilaikė,2
+2311566,Susilaikė,36253,46308248,"Justina Kašėtienė","Justina Kašėtienė","2017-05-17 17:35:21",Susilaikė,2
+2311567,Susilaikė,36253,46308248,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-17 17:35:21",Susilaikė,2
+2311568,Už,36254,46308248,Šimašius,Šimašius,"2017-05-17 17:36:22",Už,1
+2311569,Už,36255,46308248,Šimašius,Šimašius,"2017-05-17 17:38:29",Už,1
+2311570,Už,36256,46308248,Šimašius,Šimašius,"2017-05-17 17:38:29",Už,1
+2311571,Už,36257,46308248,Šimašius,Šimašius,"2017-05-17 17:38:30",Už,1
+2311572,Už,36258,46308248,Šimašius,Šimašius,"2017-05-17 17:38:30",Už,1
+2311573,Už,36259,46308248,Šimašius,Šimašius,"2017-05-17 17:38:31",Už,1
+2311574,Už,36467,46463438,Šimašius,Šimašius,"2017-05-31 13:14:00",Už,1
+2311575,Už,36468,46463438,Šimašius,Šimašius,"2017-05-31 13:14:00",Už,1
+2311576,Už,36334,46463438,Šimašius,Šimašius,"2017-05-31 13:24:50",Už,1
+2311577,Už,36335,46463438,Šimašius,Šimašius,"2017-05-31 13:30:20",Už,1
+2311578,Už,36336,46463438,Šimašius,Šimašius,"2017-05-31 13:33:27",Už,1
+2311579,Už,36337,46463438,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-31 13:38:04",Už,1
+2311580,Už,36337,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 13:38:04",Už,1
+2311581,Už,36337,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 13:38:04",Už,1
+2311582,Už,36337,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 13:38:04",Už,1
+2311583,Už,36337,46463438,"Adomas Bužinskas","Adomas Bužinskas","2017-05-31 13:38:04",Už,1
+2311584,Už,36337,46463438,"Mark Harold","Mark Harold","2017-05-31 13:38:04",Už,1
+2311585,Už,36337,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 13:38:04",Už,1
+2311586,Už,36337,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 13:38:04",Už,1
+2311587,Už,36337,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 13:38:04",Už,1
+2311588,Už,36337,46463438,"Justina Kašėtienė","Justina Kašėtienė","2017-05-31 13:38:04",Už,1
+2311589,Už,36337,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 13:38:04",Už,1
+2311590,Už,36337,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 13:38:04",Už,1
+2311591,Už,36337,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 13:38:04",Už,1
+2311592,Už,36337,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 13:38:04",Už,1
+2311593,Už,36337,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 13:38:04",Už,1
+2311594,Už,36337,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 13:38:04",Už,1
+2311595,Už,36337,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 13:38:04",Už,1
+2311596,Už,36337,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 13:38:04",Už,1
+2311597,Už,36337,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 13:38:04",Už,1
+2311598,Už,36337,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 13:38:04",Už,1
+2311599,Už,36337,46463438,"Gintautas Paluckas","Gintautas Paluckas","2017-05-31 13:38:04",Už,1
+2311600,Už,36337,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 13:38:04",Už,1
+2311601,Už,36337,46463438,"Aldona Šventickienė","Aldona Šventickienė","2017-05-31 13:38:04",Už,1
+2311602,Už,36337,46463438,"Gediminas Švilpa","Gediminas Švilpa","2017-05-31 13:38:04",Už,1
+2311603,Už,36337,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 13:38:04",Už,1
+2311604,Už,36337,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 13:38:04",Už,1
+2311605,Už,36337,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 13:38:04",Už,1
+2311606,Už,36337,46463438,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-31 13:38:04",Už,1
+2311607,Prieš,36337,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 13:38:04",Prieš,3
+2311608,Prieš,36337,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 13:38:04",Prieš,3
+2311609,Prieš,36337,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 13:38:04",Prieš,3
+2311610,Prieš,36337,46463438,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-31 13:38:04",Prieš,3
+2311611,Susilaikė,36337,46463438,"Algis Čaplikas","Algis Čaplikas","2017-05-31 13:38:04",Susilaikė,2
+2311612,Susilaikė,36337,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 13:38:04",Susilaikė,2
+2311613,Susilaikė,36337,46463438,"Artur Liudkovski","Artur Liudkovski","2017-05-31 13:38:04",Susilaikė,2
+2311614,Susilaikė,36337,46463438,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-31 13:38:04",Susilaikė,2
+2311615,Susilaikė,36337,46463438,"Gžegož Sakson","Gžegož Sakson","2017-05-31 13:38:04",Susilaikė,2
+2311616,Susilaikė,36337,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 13:38:04",Susilaikė,2
+2311617,Susilaikė,36337,46463438,"Edita Šiško","Edita Šiško","2017-05-31 13:38:04",Susilaikė,2
+2311618,Susilaikė,36337,46463438,"Gintautas Terleckas","Gintautas Terleckas","2017-05-31 13:38:04",Susilaikė,2
+2311619,Susilaikė,36337,46463438,"Artūras Zuokas","Artūras Zuokas","2017-05-31 13:38:04",Susilaikė,2
+2311620,Už,36338,46463438,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-31 13:53:44",Už,1
+2311621,Už,36338,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 13:53:44",Už,1
+2311622,Už,36338,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 13:53:44",Už,1
+2311623,Už,36338,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 13:53:44",Už,1
+2311624,Už,36338,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 13:53:44",Už,1
+2311625,Už,36338,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 13:53:44",Už,1
+2311626,Už,36338,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 13:53:44",Už,1
+2311627,Už,36338,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 13:53:44",Už,1
+2311628,Už,36338,46463438,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-31 13:53:44",Už,1
+2311629,Už,36338,46463438,"Justina Kašėtienė","Justina Kašėtienė","2017-05-31 13:53:44",Už,1
+2311630,Už,36338,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 13:53:44",Už,1
+2311631,Už,36338,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 13:53:44",Už,1
+2311632,Už,36338,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 13:53:44",Už,1
+2311633,Už,36338,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 13:53:44",Už,1
+2311634,Už,36338,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 13:53:44",Už,1
+2311635,Už,36338,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 13:53:44",Už,1
+2311636,Už,36338,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 13:53:44",Už,1
+2311637,Už,36338,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 13:53:44",Už,1
+2311638,Už,36338,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 13:53:44",Už,1
+2311639,Už,36338,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 13:53:44",Už,1
+2311640,Už,36338,46463438,"Gintautas Paluckas","Gintautas Paluckas","2017-05-31 13:53:44",Už,1
+2311641,Už,36338,46463438,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-31 13:53:44",Už,1
+2311642,Už,36338,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 13:53:44",Už,1
+2311643,Už,36338,46463438,"Edita Šiško","Edita Šiško","2017-05-31 13:53:44",Už,1
+2311644,Už,36338,46463438,"Gediminas Švilpa","Gediminas Švilpa","2017-05-31 13:53:44",Už,1
+2311645,Už,36338,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 13:53:44",Už,1
+2311646,Už,36338,46463438,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2017-05-31 13:53:44",Už,1
+2311647,Už,36338,46463438,"Gintautas Terleckas","Gintautas Terleckas","2017-05-31 13:53:44",Už,1
+2311648,Už,36338,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 13:53:44",Už,1
+2311649,Susilaikė,36338,46463438,"Algis Čaplikas","Algis Čaplikas","2017-05-31 13:53:44",Susilaikė,2
+2311650,Susilaikė,36338,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 13:53:44",Susilaikė,2
+2311651,Susilaikė,36338,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 13:53:44",Susilaikė,2
+2311652,Susilaikė,36338,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 13:53:44",Susilaikė,2
+2311653,Susilaikė,36338,46463438,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-31 13:53:44",Susilaikė,2
+2311654,Susilaikė,36338,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 13:53:44",Susilaikė,2
+2311655,Susilaikė,36338,46463438,"Aldona Šventickienė","Aldona Šventickienė","2017-05-31 13:53:44",Susilaikė,2
+2311656,Susilaikė,36338,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 13:53:44",Susilaikė,2
+2311657,Susilaikė,36338,46463438,"Artūras Zuokas","Artūras Zuokas","2017-05-31 13:53:44",Susilaikė,2
+2311658,Už,36339,46463438,Šimašius,Šimašius,"2017-05-31 13:56:20",Už,1
+2311659,Už,36340,46463438,Šimašius,Šimašius,"2017-05-31 14:00:25",Už,1
+2311660,Už,36341,46463438,Šimašius,Šimašius,"2017-05-31 14:01:42",Už,1
+2311661,Už,36342,46463438,Šimašius,Šimašius,"2017-05-31 14:02:04",Už,1
+2311662,Už,36343,46463438,Šimašius,Šimašius,"2017-05-31 14:03:06",Už,1
+2311663,Už,36344,46463438,Šimašius,Šimašius,"2017-05-31 14:03:06",Už,1
+2311664,Už,36345,46463438,Šimašius,Šimašius,"2017-05-31 14:04:26",Už,1
+2311665,Už,36346,46463438,Šimašius,Šimašius,"2017-05-31 14:05:36",Už,1
+2311666,Už,36348,46463438,Šimašius,Šimašius,"2017-05-31 14:08:29",Už,1
+2311667,Už,36349,46463438,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-31 14:12:56",Už,1
+2311668,Už,36349,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 14:12:56",Už,1
+2311669,Už,36349,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 14:12:56",Už,1
+2311670,Už,36349,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 14:12:56",Už,1
+2311671,Už,36349,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 14:12:56",Už,1
+2311672,Už,36349,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 14:12:56",Už,1
+2311673,Už,36349,46463438,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-31 14:12:56",Už,1
+2311674,Už,36349,46463438,"Justina Kašėtienė","Justina Kašėtienė","2017-05-31 14:12:56",Už,1
+2311675,Už,36349,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 14:12:56",Už,1
+2311676,Už,36349,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 14:12:56",Už,1
+2311677,Už,36349,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 14:12:56",Už,1
+2311678,Už,36349,46463438,"Artur Liudkovski","Artur Liudkovski","2017-05-31 14:12:56",Už,1
+2311679,Už,36349,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 14:12:56",Už,1
+2311680,Už,36349,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 14:12:56",Už,1
+2311681,Už,36349,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 14:12:56",Už,1
+2311682,Už,36349,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 14:12:56",Už,1
+2311683,Už,36349,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 14:12:56",Už,1
+2311684,Už,36349,46463438,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-31 14:12:56",Už,1
+2311685,Už,36349,46463438,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-31 14:12:56",Už,1
+2311686,Už,36349,46463438,"Gžegož Sakson","Gžegož Sakson","2017-05-31 14:12:56",Už,1
+2311687,Už,36349,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 14:12:56",Už,1
+2311688,Už,36349,46463438,"Edita Šiško","Edita Šiško","2017-05-31 14:12:56",Už,1
+2311689,Už,36349,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 14:12:56",Už,1
+2311690,Už,36349,46463438,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2017-05-31 14:12:56",Už,1
+2311691,Už,36349,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 14:12:56",Už,1
+2311692,Prieš,36349,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 14:12:56",Prieš,3
+2311693,Prieš,36349,46463438,"Adomas Bužinskas","Adomas Bužinskas","2017-05-31 14:12:56",Prieš,3
+2311694,Prieš,36349,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 14:12:56",Prieš,3
+2311695,Prieš,36349,46463438,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-31 14:12:56",Prieš,3
+2311696,Prieš,36349,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 14:12:56",Prieš,3
+2311697,Prieš,36349,46463438,"Gediminas Švilpa","Gediminas Švilpa","2017-05-31 14:12:56",Prieš,3
+2311698,Prieš,36349,46463438,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-31 14:12:56",Prieš,3
+2311699,Susilaikė,36349,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 14:12:56",Susilaikė,2
+2311700,Susilaikė,36349,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 14:12:56",Susilaikė,2
+2311701,Susilaikė,36349,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 14:12:56",Susilaikė,2
+2311702,Susilaikė,36349,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 14:12:56",Susilaikė,2
+2311703,Susilaikė,36349,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 14:12:56",Susilaikė,2
+2311704,Susilaikė,36349,46463438,"Gintautas Paluckas","Gintautas Paluckas","2017-05-31 14:12:56",Susilaikė,2
+2311705,Susilaikė,36349,46463438,"Aldona Šventickienė","Aldona Šventickienė","2017-05-31 14:12:56",Susilaikė,2
+2311706,Susilaikė,36349,46463438,"Gintautas Terleckas","Gintautas Terleckas","2017-05-31 14:12:56",Susilaikė,2
+2311707,Susilaikė,36349,46463438,"Artūras Zuokas","Artūras Zuokas","2017-05-31 14:12:56",Susilaikė,2
+2311708,Už,36350,46463438,"Algis Čaplikas","Algis Čaplikas","2017-05-31 14:20:42",Už,1
+2311709,Už,36350,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 14:20:42",Už,1
+2311710,Už,36350,46463438,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-31 14:20:42",Už,1
+2311711,Už,36350,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 14:20:42",Už,1
+2311712,Už,36350,46463438,"Artur Liudkovski","Artur Liudkovski","2017-05-31 14:20:42",Už,1
+2311713,Už,36350,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 14:20:42",Už,1
+2311714,Už,36350,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 14:20:42",Už,1
+2311715,Už,36350,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 14:20:42",Už,1
+2311716,Už,36350,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 14:20:42",Už,1
+2311717,Už,36350,46463438,"Gintautas Paluckas","Gintautas Paluckas","2017-05-31 14:20:42",Už,1
+2311718,Už,36350,46463438,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-31 14:20:42",Už,1
+2311719,Už,36350,46463438,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-31 14:20:42",Už,1
+2311720,Už,36350,46463438,"Gžegož Sakson","Gžegož Sakson","2017-05-31 14:20:42",Už,1
+2311721,Už,36350,46463438,"Edita Šiško","Edita Šiško","2017-05-31 14:20:42",Už,1
+2311722,Už,36350,46463438,"Aldona Šventickienė","Aldona Šventickienė","2017-05-31 14:20:42",Už,1
+2311723,Už,36350,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 14:20:42",Už,1
+2311724,Už,36350,46463438,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2017-05-31 14:20:42",Už,1
+2311725,Už,36350,46463438,"Artūras Zuokas","Artūras Zuokas","2017-05-31 14:20:42",Už,1
+2311726,Prieš,36350,46463438,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-31 14:20:42",Prieš,3
+2311727,Prieš,36350,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 14:20:42",Prieš,3
+2311728,Prieš,36350,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 14:20:42",Prieš,3
+2311729,Prieš,36350,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 14:20:42",Prieš,3
+2311730,Prieš,36350,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 14:20:42",Prieš,3
+2311731,Prieš,36350,46463438,"Justina Kašėtienė","Justina Kašėtienė","2017-05-31 14:20:42",Prieš,3
+2311732,Prieš,36350,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 14:20:42",Prieš,3
+2311733,Prieš,36350,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 14:20:42",Prieš,3
+2311734,Prieš,36350,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 14:20:42",Prieš,3
+2311735,Prieš,36350,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 14:20:42",Prieš,3
+2311736,Prieš,36350,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 14:20:42",Prieš,3
+2311737,Prieš,36350,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 14:20:42",Prieš,3
+2311738,Prieš,36350,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 14:20:42",Prieš,3
+2311739,Prieš,36350,46463438,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-31 14:20:42",Prieš,3
+2311740,Prieš,36350,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 14:20:42",Prieš,3
+2311741,Prieš,36350,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 14:20:42",Prieš,3
+2311742,Prieš,36350,46463438,"Gediminas Švilpa","Gediminas Švilpa","2017-05-31 14:20:42",Prieš,3
+2311743,Prieš,36350,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 14:20:42",Prieš,3
+2311744,Prieš,36350,46463438,"Gintautas Terleckas","Gintautas Terleckas","2017-05-31 14:20:42",Prieš,3
+2311745,Prieš,36350,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 14:20:42",Prieš,3
+2311746,Prieš,36350,46463438,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-31 14:20:42",Prieš,3
+2311747,Susilaikė,36350,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 14:20:42",Susilaikė,2
+2311748,Susilaikė,36350,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 14:20:42",Susilaikė,2
+2311749,Susilaikė,36350,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 14:20:42",Susilaikė,2
+2311750,Už,36351,46463438,"Algis Čaplikas","Algis Čaplikas","2017-05-31 14:22:31",Už,1
+2311751,Už,36351,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 14:22:31",Už,1
+2311752,Už,36351,46463438,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-31 14:22:31",Už,1
+2311753,Už,36351,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 14:22:31",Už,1
+2311754,Už,36351,46463438,"Artur Liudkovski","Artur Liudkovski","2017-05-31 14:22:31",Už,1
+2311755,Už,36351,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 14:22:31",Už,1
+2311756,Už,36351,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 14:22:31",Už,1
+2311757,Už,36351,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 14:22:31",Už,1
+2311758,Už,36351,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 14:22:31",Už,1
+2311759,Už,36351,46463438,"Gintautas Paluckas","Gintautas Paluckas","2017-05-31 14:22:31",Už,1
+2311760,Už,36351,46463438,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-31 14:22:31",Už,1
+2311761,Už,36351,46463438,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-31 14:22:31",Už,1
+2311762,Už,36351,46463438,"Gžegož Sakson","Gžegož Sakson","2017-05-31 14:22:31",Už,1
+2311763,Už,36351,46463438,"Edita Šiško","Edita Šiško","2017-05-31 14:22:31",Už,1
+2311764,Už,36351,46463438,"Aldona Šventickienė","Aldona Šventickienė","2017-05-31 14:22:31",Už,1
+2311765,Už,36351,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 14:22:31",Už,1
+2311766,Už,36351,46463438,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2017-05-31 14:22:31",Už,1
+2311767,Už,36351,46463438,"Artūras Zuokas","Artūras Zuokas","2017-05-31 14:22:31",Už,1
+2311768,Prieš,36351,46463438,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-31 14:22:31",Prieš,3
+2311769,Prieš,36351,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 14:22:31",Prieš,3
+2311770,Prieš,36351,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 14:22:31",Prieš,3
+2311771,Prieš,36351,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 14:22:31",Prieš,3
+2311772,Prieš,36351,46463438,"Adomas Bužinskas","Adomas Bužinskas","2017-05-31 14:22:31",Prieš,3
+2311773,Prieš,36351,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 14:22:31",Prieš,3
+2311774,Prieš,36351,46463438,"Justina Kašėtienė","Justina Kašėtienė","2017-05-31 14:22:31",Prieš,3
+2311775,Prieš,36351,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 14:22:31",Prieš,3
+2311776,Prieš,36351,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 14:22:31",Prieš,3
+2311777,Prieš,36351,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 14:22:31",Prieš,3
+2311778,Prieš,36351,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 14:22:31",Prieš,3
+2311779,Prieš,36351,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 14:22:31",Prieš,3
+2311780,Prieš,36351,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 14:22:31",Prieš,3
+2311781,Prieš,36351,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 14:22:31",Prieš,3
+2311782,Prieš,36351,46463438,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-31 14:22:31",Prieš,3
+2311783,Prieš,36351,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 14:22:31",Prieš,3
+2311784,Prieš,36351,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 14:22:31",Prieš,3
+2311785,Prieš,36351,46463438,"Gediminas Švilpa","Gediminas Švilpa","2017-05-31 14:22:31",Prieš,3
+2311786,Prieš,36351,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 14:22:31",Prieš,3
+2311787,Prieš,36351,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 14:22:31",Prieš,3
+2311788,Prieš,36351,46463438,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-31 14:22:31",Prieš,3
+2311789,Susilaikė,36351,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 14:22:31",Susilaikė,2
+2311790,Susilaikė,36351,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 14:22:31",Susilaikė,2
+2311791,Už,36352,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 14:23:22",Už,1
+2311792,Už,36352,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 14:23:22",Už,1
+2311793,Už,36352,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 14:23:22",Už,1
+2311794,Už,36352,46463438,"Adomas Bužinskas","Adomas Bužinskas","2017-05-31 14:23:22",Už,1
+2311795,Už,36352,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 14:23:22",Už,1
+2311796,Už,36352,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 14:23:22",Už,1
+2311797,Už,36352,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 14:23:22",Už,1
+2311798,Už,36352,46463438,"Justina Kašėtienė","Justina Kašėtienė","2017-05-31 14:23:22",Už,1
+2311799,Už,36352,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 14:23:22",Už,1
+2311800,Už,36352,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 14:23:22",Už,1
+2311801,Už,36352,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 14:23:22",Už,1
+2311802,Už,36352,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 14:23:22",Už,1
+2311803,Už,36352,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 14:23:22",Už,1
+2311804,Už,36352,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 14:23:22",Už,1
+2311805,Už,36352,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 14:23:22",Už,1
+2311806,Už,36352,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 14:23:22",Už,1
+2311807,Už,36352,46463438,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-31 14:23:22",Už,1
+2311808,Už,36352,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 14:23:22",Už,1
+2311809,Už,36352,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 14:23:22",Už,1
+2311810,Už,36352,46463438,"Gediminas Švilpa","Gediminas Švilpa","2017-05-31 14:23:22",Už,1
+2311811,Už,36352,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 14:23:22",Už,1
+2311812,Už,36352,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 14:23:22",Už,1
+2311813,Už,36352,46463438,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-31 14:23:22",Už,1
+2311814,Prieš,36352,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 14:23:22",Prieš,3
+2311815,Prieš,36352,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 14:23:22",Prieš,3
+2311816,Prieš,36352,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 14:23:22",Prieš,3
+2311817,Prieš,36352,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 14:23:22",Prieš,3
+2311818,Prieš,36352,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 14:23:22",Prieš,3
+2311819,Prieš,36352,46463438,"Gintautas Paluckas","Gintautas Paluckas","2017-05-31 14:23:22",Prieš,3
+2311820,Prieš,36352,46463438,"Edita Šiško","Edita Šiško","2017-05-31 14:23:22",Prieš,3
+2311821,Prieš,36352,46463438,"Aldona Šventickienė","Aldona Šventickienė","2017-05-31 14:23:22",Prieš,3
+2311822,Prieš,36352,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 14:23:22",Prieš,3
+2311823,Prieš,36352,46463438,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2017-05-31 14:23:22",Prieš,3
+2311824,Prieš,36352,46463438,"Artūras Zuokas","Artūras Zuokas","2017-05-31 14:23:22",Prieš,3
+2311825,Susilaikė,36352,46463438,"Algis Čaplikas","Algis Čaplikas","2017-05-31 14:23:22",Susilaikė,2
+2311826,Susilaikė,36352,46463438,"Gintautas Terleckas","Gintautas Terleckas","2017-05-31 14:23:22",Susilaikė,2
+2311827,Už,36353,46463438,Šimašius,Šimašius,"2017-05-31 14:25:25",Už,1
+2311828,Už,36354,46463438,Šimašius,Šimašius,"2017-05-31 14:26:05",Už,1
+2311829,Už,36355,46463438,Šimašius,Šimašius,"2017-05-31 14:26:55",Už,1
+2311830,Už,36356,46463438,Šimašius,Šimašius,"2017-05-31 14:30:16",Už,1
+2311831,Už,36357,46463438,Šimašius,Šimašius,"2017-05-31 14:30:40",Už,1
+2311832,Už,36358,46463438,Šimašius,Šimašius,"2017-05-31 14:30:57",Už,1
+2311833,Už,36359,46463438,Šimašius,Šimašius,"2017-05-31 14:33:00",Už,1
+2311834,Už,36360,46463438,Šimašius,Šimašius,"2017-05-31 14:33:00",Už,1
+2311835,Už,36361,46463438,Šimašius,Šimašius,"2017-05-31 14:33:45",Už,1
+2311836,Už,36362,46463438,Šimašius,Šimašius,"2017-05-31 14:34:10",Už,1
+2311837,Už,36363,46463438,Šimašius,Šimašius,"2017-05-31 14:34:35",Už,1
+2311838,Už,36364,46463438,Šimašius,Šimašius,"2017-05-31 14:38:36",Už,1
+2311839,Už,36365,46463438,Šimašius,Šimašius,"2017-05-31 14:38:57",Už,1
+2311840,Už,36370,46463438,Šimašius,Šimašius,"2017-05-31 14:40:19",Už,1
+2311841,Už,36373,46463438,Šimašius,Šimašius,"2017-05-31 14:41:49",Už,1
+2311842,Už,36371,46463438,Šimašius,Šimašius,"2017-05-31 14:42:29",Už,1
+2311843,Už,36372,46463438,Šimašius,Šimašius,"2017-05-31 14:48:55",Už,1
+2311844,Už,36374,46463438,Šimašius,Šimašius,"2017-05-31 14:49:53",Už,1
+2311845,Už,36375,46463438,Šimašius,Šimašius,"2017-05-31 14:50:17",Už,1
+2311846,Už,36376,46463438,Šimašius,Šimašius,"2017-05-31 14:50:41",Už,1
+2311847,Už,36377,46463438,Šimašius,Šimašius,"2017-05-31 14:50:48",Už,1
+2311848,Už,36378,46463438,Šimašius,Šimašius,"2017-05-31 14:51:05",Už,1
+2311849,Už,36379,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 14:51:33",Už,1
+2311850,Už,36379,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 14:51:33",Už,1
+2311851,Už,36379,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 14:51:33",Už,1
+2311852,Už,36379,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 14:51:33",Už,1
+2311853,Už,36379,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 14:51:33",Už,1
+2311854,Už,36379,46463438,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-31 14:51:33",Už,1
+2311855,Už,36379,46463438,"Justina Kašėtienė","Justina Kašėtienė","2017-05-31 14:51:33",Už,1
+2311856,Už,36379,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 14:51:33",Už,1
+2311857,Už,36379,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 14:51:33",Už,1
+2311858,Už,36379,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 14:51:33",Už,1
+2311859,Už,36379,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 14:51:33",Už,1
+2311860,Už,36379,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 14:51:33",Už,1
+2311861,Už,36379,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 14:51:33",Už,1
+2311862,Už,36379,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 14:51:33",Už,1
+2311863,Už,36379,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 14:51:33",Už,1
+2311864,Už,36379,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 14:51:33",Už,1
+2311865,Už,36379,46463438,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-31 14:51:33",Už,1
+2311866,Už,36379,46463438,"Gžegož Sakson","Gžegož Sakson","2017-05-31 14:51:33",Už,1
+2311867,Už,36379,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 14:51:33",Už,1
+2311868,Už,36379,46463438,"Edita Šiško","Edita Šiško","2017-05-31 14:51:33",Už,1
+2311869,Už,36379,46463438,"Gediminas Švilpa","Gediminas Švilpa","2017-05-31 14:51:33",Už,1
+2311870,Už,36379,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 14:51:33",Už,1
+2311871,Už,36379,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 14:51:33",Už,1
+2311872,Už,36379,46463438,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2017-05-31 14:51:33",Už,1
+2311873,Už,36379,46463438,"Gintautas Terleckas","Gintautas Terleckas","2017-05-31 14:51:33",Už,1
+2311874,Už,36379,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 14:51:33",Už,1
+2311875,Už,36380,46463438,Šimašius,Šimašius,"2017-05-31 14:52:21",Už,1
+2311876,Už,36381,46463438,Šimašius,Šimašius,"2017-05-31 14:52:26",Už,1
+2311877,Už,36382,46463438,Šimašius,Šimašius,"2017-05-31 14:52:41",Už,1
+2311878,Už,36383,46463438,Šimašius,Šimašius,"2017-05-31 14:52:53",Už,1
+2311879,Už,36384,46463438,Šimašius,Šimašius,"2017-05-31 14:53:08",Už,1
+2311880,Už,36385,46463438,Šimašius,Šimašius,"2017-05-31 14:53:19",Už,1
+2311881,Už,36386,46463438,Šimašius,Šimašius,"2017-05-31 14:53:35",Už,1
+2311882,Už,36387,46463438,Šimašius,Šimašius,"2017-05-31 14:53:52",Už,1
+2311883,Už,36388,46463438,Šimašius,Šimašius,"2017-05-31 14:54:05",Už,1
+2311884,Už,36395,46463438,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-31 15:55:29",Už,1
+2311885,Už,36395,46463438,"Algis Čaplikas","Algis Čaplikas","2017-05-31 15:55:29",Už,1
+2311886,Už,36395,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 15:55:29",Už,1
+2311887,Už,36395,46463438,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-31 15:55:29",Už,1
+2311888,Už,36395,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 15:55:29",Už,1
+2311889,Už,36395,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 15:55:29",Už,1
+2311890,Už,36395,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 15:55:29",Už,1
+2311891,Už,36395,46463438,"Artur Liudkovski","Artur Liudkovski","2017-05-31 15:55:29",Už,1
+2311892,Už,36395,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 15:55:29",Už,1
+2311893,Už,36395,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 15:55:29",Už,1
+2311894,Už,36395,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 15:55:29",Už,1
+2311895,Už,36395,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 15:55:29",Už,1
+2311896,Už,36395,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 15:55:29",Už,1
+2311897,Už,36395,46463438,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-31 15:55:29",Už,1
+2311898,Už,36395,46463438,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-31 15:55:29",Už,1
+2311899,Už,36395,46463438,"Gžegož Sakson","Gžegož Sakson","2017-05-31 15:55:29",Už,1
+2311900,Už,36395,46463438,"Edita Šiško","Edita Šiško","2017-05-31 15:55:29",Už,1
+2311901,Už,36395,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 15:55:29",Už,1
+2311902,Prieš,36395,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 15:55:29",Prieš,3
+2311903,Prieš,36395,46463438,"Adomas Bužinskas","Adomas Bužinskas","2017-05-31 15:55:29",Prieš,3
+2311904,Prieš,36395,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 15:55:29",Prieš,3
+2311905,Prieš,36395,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 15:55:29",Prieš,3
+2311906,Prieš,36395,46463438,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-31 15:55:29",Prieš,3
+2311907,Susilaikė,36395,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 15:55:29",Susilaikė,2
+2311908,Susilaikė,36395,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 15:55:29",Susilaikė,2
+2311909,Susilaikė,36395,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 15:55:29",Susilaikė,2
+2311910,Susilaikė,36395,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 15:55:29",Susilaikė,2
+2311911,Susilaikė,36395,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 15:55:29",Susilaikė,2
+2311912,Susilaikė,36395,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 15:55:29",Susilaikė,2
+2311913,Susilaikė,36395,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 15:55:29",Susilaikė,2
+2311914,Susilaikė,36395,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 15:55:29",Susilaikė,2
+2311915,Susilaikė,36395,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 15:55:29",Susilaikė,2
+2311916,Už,36396,46463438,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-31 16:01:01",Už,1
+2311917,Už,36396,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 16:01:01",Už,1
+2311918,Už,36396,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 16:01:01",Už,1
+2311919,Už,36396,46463438,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-31 16:01:01",Už,1
+2311920,Už,36396,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 16:01:01",Už,1
+2311921,Už,36396,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 16:01:01",Už,1
+2311922,Už,36396,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 16:01:01",Už,1
+2311923,Už,36396,46463438,"Artur Liudkovski","Artur Liudkovski","2017-05-31 16:01:01",Už,1
+2311924,Už,36396,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 16:01:01",Už,1
+2311925,Už,36396,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 16:01:01",Už,1
+2311926,Už,36396,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 16:01:01",Už,1
+2311927,Už,36396,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 16:01:01",Už,1
+2311928,Už,36396,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 16:01:01",Už,1
+2311929,Už,36396,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 16:01:01",Už,1
+2311930,Už,36396,46463438,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-31 16:01:01",Už,1
+2311931,Už,36396,46463438,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-31 16:01:01",Už,1
+2311932,Už,36396,46463438,"Gžegož Sakson","Gžegož Sakson","2017-05-31 16:01:01",Už,1
+2311933,Už,36396,46463438,"Edita Šiško","Edita Šiško","2017-05-31 16:01:01",Už,1
+2311934,Už,36396,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 16:01:01",Už,1
+2311935,Už,36396,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 16:01:01",Už,1
+2311936,Už,36396,46463438,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2017-05-31 16:01:01",Už,1
+2311937,Už,36396,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 16:01:01",Už,1
+2311938,Prieš,36396,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 16:01:01",Prieš,3
+2311939,Prieš,36396,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 16:01:01",Prieš,3
+2311940,Prieš,36396,46463438,"Adomas Bužinskas","Adomas Bužinskas","2017-05-31 16:01:01",Prieš,3
+2311941,Prieš,36396,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 16:01:01",Prieš,3
+2311942,Prieš,36396,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 16:01:01",Prieš,3
+2311943,Prieš,36396,46463438,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-31 16:01:01",Prieš,3
+2311944,Prieš,36396,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 16:01:01",Prieš,3
+2311945,Prieš,36396,46463438,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-31 16:01:01",Prieš,3
+2311946,Susilaikė,36396,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 16:01:01",Susilaikė,2
+2311947,Susilaikė,36396,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 16:01:01",Susilaikė,2
+2311948,Susilaikė,36396,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 16:01:01",Susilaikė,2
+2311949,Susilaikė,36396,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 16:01:01",Susilaikė,2
+2311950,Susilaikė,36396,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 16:01:01",Susilaikė,2
+2311951,Susilaikė,36396,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 16:01:01",Susilaikė,2
+2311952,Už,36397,46463438,"Kasparas Adomaitis","Kasparas Adomaitis","2017-05-31 16:03:04",Už,1
+2311953,Už,36397,46463438,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-05-31 16:03:04",Už,1
+2311954,Už,36397,46463438,"Jaroslav Kaminski","Jaroslav Kaminski","2017-05-31 16:03:04",Už,1
+2311955,Už,36397,46463438,"Auksė Kontrimienė","Auksė Kontrimienė","2017-05-31 16:03:04",Už,1
+2311956,Už,36397,46463438,"Vaidas Kukarėnas","Vaidas Kukarėnas","2017-05-31 16:03:04",Už,1
+2311957,Už,36397,46463438,"Artur Liudkovski","Artur Liudkovski","2017-05-31 16:03:04",Už,1
+2311958,Už,36397,46463438,"Mindaugas Mačernis","Mindaugas Mačernis","2017-05-31 16:03:04",Už,1
+2311959,Už,36397,46463438,"Zbigniev Maciejevski","Zbigniev Maciejevski","2017-05-31 16:03:04",Už,1
+2311960,Už,36397,46463438,"Vidmantas Martikonis","Vidmantas Martikonis","2017-05-31 16:03:04",Už,1
+2311961,Už,36397,46463438,"Miroslavas Monkevičius","Miroslavas Monkevičius","2017-05-31 16:03:04",Už,1
+2311962,Už,36397,46463438,"Rafael Muksinov","Rafael Muksinov","2017-05-31 16:03:04",Už,1
+2311963,Už,36397,46463438,"Juozas Olekas","Juozas Olekas","2017-05-31 16:03:04",Už,1
+2311964,Už,36397,46463438,"Romualda Poševeckaja","Romualda Poševeckaja","2017-05-31 16:03:04",Už,1
+2311965,Už,36397,46463438,"Gediminas Rudžionis","Gediminas Rudžionis","2017-05-31 16:03:04",Už,1
+2311966,Už,36397,46463438,"Gžegož Sakson","Gžegož Sakson","2017-05-31 16:03:04",Už,1
+2311967,Už,36397,46463438,"Edita Šiško","Edita Šiško","2017-05-31 16:03:04",Už,1
+2311968,Už,36397,46463438,"Marius Skarupskas","Marius Skarupskas","2017-05-31 16:03:04",Už,1
+2311969,Už,36397,46463438,"Šarūnas Skučas","Šarūnas Skučas","2017-05-31 16:03:04",Už,1
+2311970,Už,36397,46463438,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2017-05-31 16:03:04",Už,1
+2311971,Prieš,36397,46463438,"Rita Balčiūnienė","Rita Balčiūnienė","2017-05-31 16:03:04",Prieš,3
+2311972,Prieš,36397,46463438,"Danutė Bekintienė","Danutė Bekintienė","2017-05-31 16:03:04",Prieš,3
+2311973,Prieš,36397,46463438,"Valdas Benkunskas","Valdas Benkunskas","2017-05-31 16:03:04",Prieš,3
+2311974,Prieš,36397,46463438,"Adomas Bužinskas","Adomas Bužinskas","2017-05-31 16:03:04",Prieš,3
+2311975,Prieš,36397,46463438,"Paulė Kuzmickienė","Paulė Kuzmickienė","2017-05-31 16:03:04",Prieš,3
+2311976,Prieš,36397,46463438,"Linas Kvedaravičius","Linas Kvedaravičius","2017-05-31 16:03:04",Prieš,3
+2311977,Prieš,36397,46463438,"Violeta Podolskaitė","Violeta Podolskaitė","2017-05-31 16:03:04",Prieš,3
+2311978,Prieš,36397,46463438,"Arvydas Sekmokas","Arvydas Sekmokas","2017-05-31 16:03:04",Prieš,3
+2311979,Prieš,36397,46463438,"Vidas Urbonavičius","Vidas Urbonavičius","2017-05-31 16:03:04",Prieš,3
+2311980,Susilaikė,36397,46463438,"Vaidotas Ilgius","Vaidotas Ilgius","2017-05-31 16:03:04",Susilaikė,2
+2311981,Susilaikė,36397,46463438,"Audronis Imbrasas","Audronis Imbrasas","2017-05-31 16:03:04",Susilaikė,2
+2311982,Susilaikė,36397,46463438,"Vincas Jurgutis","Vincas Jurgutis","2017-05-31 16:03:04",Susilaikė,2
+2311983,Susilaikė,36397,46463438,"Andrius Katinas","Andrius Katinas","2017-05-31 16:03:04",Susilaikė,2
+2311984,Susilaikė,36397,46463438,"Darius Kuolys","Darius Kuolys","2017-05-31 16:03:04",Susilaikė,2
+2311985,Susilaikė,36397,46463438,"Vytautas Mitalas","Vytautas Mitalas","2017-05-31 16:03:04",Susilaikė,2
+2311986,Susilaikė,36397,46463438,"Remigijus Šimašius","Remigijus Šimašius","2017-05-31 16:03:04",Susilaikė,2
+2311987,Susilaikė,36397,46463438,"Skirmantas Tumelis","Skirmantas Tumelis","2017-05-31 16:03:04",Susilaikė,2
+2311988,Už,36401,46463438,Šimašius,Šimašius,"2017-05-31 16:07:51",Už,1
+2311989,Už,36389,46463438,Šimašius,Šimašius,"2017-05-31 16:10:18",Už,1
+2311990,Už,36390,46463438,Šimašius,Šimašius,"2017-05-31 16:10:35",Už,1
+2311991,Už,36391,46463438,Šimašius,Šimašius,"2017-05-31 16:10:52",Už,1
+2311992,Už,36392,46463438,Šimašius,Šimašius,"2017-05-31 16:11:19",Už,1
+2311993,Už,36393,46463438,Šimašius,Šimašius,"2017-05-31 16:13:29",Už,1
+2311994,Už,36398,46463438,Šimašius,Šimašius,"2017-05-31 16:27:38",Už,1
+2311995,Už,36400,46463438,Šimašius,Šimašius,"2017-05-31 16:31:38",Už,1
