@@ -30053,8 +30053,6 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2333525,Susilaikė,36667,46734446,"Remigijus Šimašius","Remigijus Šimašius","2017-06-28 16:45:35",Susilaikė,2
 2333526,Susilaikė,36667,46734446,"Aldona Šventickienė","Aldona Šventickienė","2017-06-28 16:45:35",Susilaikė,2
 2333527,Už,36724,46734446,Šimašius,Šimašius,"2017-06-28 16:46:25",Už,1
-2333624,Už,36659,46734446,Šimašius,Šimašius,"2017-06-28 16:10:33",Už,1
-2333721,Prieš,36721,46734446,Šimašius,Šimašius,"2017-06-28 16:04:23",Prieš,3
 2333798,Už,36647,46734446,Šimašius,Šimašius,"2017-06-28 15:53:09",Už,1
 2333833,Už,36634,46734446,"Kasparas Adomaitis","Kasparas Adomaitis","2017-06-28 13:44:47",Už,1
 2333834,Už,36634,46734446,"Danutė Bekintienė","Danutė Bekintienė","2017-06-28 13:44:47",Už,1
@@ -30132,3 +30130,5 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2333940,Už,36641,46734446,"Skirmantas Tumelis","Skirmantas Tumelis","2017-06-28 14:37:53",Už,1
 2333941,Už,36641,46734446,"Vidas Urbonavičius","Vidas Urbonavičius","2017-06-28 14:37:53",Už,1
 2333942,Susilaikė,36641,46734446,"Vaidotas Ilgius","Vaidotas Ilgius","2017-06-28 14:37:53",Susilaikė,2
+2333999,Prieš,36721,46734446,Šimašius,Šimašius,"2017-06-28 16:04:23",Prieš,3
+2334025,Už,36659,46734446,Šimašius,Šimašius,"2017-06-28 16:10:33",Už,1
