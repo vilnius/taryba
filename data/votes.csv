@@ -32608,7 +32608,6 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2388016,Susilaikė,38111,48249453,"Šarūnas Skučas","Šarūnas Skučas","2017-12-07 17:24:00",Susilaikė,2
 2388106,Už,38091,48249453,Šimašius,Šimašius,"2017-12-07 14:10:46",Už,1
 2388144,Už,38087,48249453,Šimašius,Šimašius,"2017-12-07 13:59:10",Už,1
-2388317,Už,38101,48249453,Šimašius,Šimašius,"2017-12-07 13:53:44",Už,1
 2388353,Už,38089,48249453,"Rita Balčiūnienė","Rita Balčiūnienė","2017-12-07 14:03:24",Už,1
 2388354,Už,38089,48249453,"Bronius Cicėnas","Bronius Cicėnas","2017-12-07 14:03:24",Už,1
 2388355,Už,38089,48249453,"Aleksandr Fiodorov","Aleksandr Fiodorov","2017-12-07 14:03:24",Už,1
@@ -32640,4 +32639,5 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 2388381,Susilaikė,38089,48249453,"Justina Kašėtaitė","Justina Kašėtaitė","2017-12-07 14:03:24",Susilaikė,2
 2388382,Susilaikė,38089,48249453,"Vidmantas Martikonis","Vidmantas Martikonis","2017-12-07 14:03:24",Susilaikė,2
 2388431,Už,38149,48249453,Šimašius,Šimašius,"2017-12-07 13:13:54",Už,1
-2388463,Už,38090,48249453,Šimašius,Šimašius,"2017-12-07 14:06:41",Už,1
+2388624,Už,38090,48249453,Šimašius,Šimašius,"2017-12-07 14:06:41",Už,1
+2388667,Už,38101,48249453,Šimašius,Šimašius,"2017-12-07 13:53:44",Už,1
