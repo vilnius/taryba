@@ -37836,274 +37836,545 @@ ID,SHOWS,QUESTION_ID,MEETING_ID,VOTING_INFO,VOTING_SHORT,VOTE_DATE,VOTE,SYS_ID
 9386420,Už,44643,50535111,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-13 17:02:42",Už,1
 9386421,Už,44643,50535111,"Gintautas Terleckas","Gintautas Terleckas","2018-06-13 17:02:42",Už,1
 9386422,Už,44643,50535111,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-13 17:02:42",Už,1
-9758070,Už,44777,50659051,Šimašius,Šimašius,"2018-06-19 11:26:01",Už,1
-9758071,Už,44778,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 11:24:52",Už,1
-9758072,Už,44778,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 11:24:52",Už,1
-9758073,Už,44778,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 11:24:52",Už,1
-9758074,Už,44778,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 11:24:52",Už,1
-9758075,Už,44778,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 11:24:52",Už,1
-9758076,Už,44778,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 11:24:52",Už,1
-9758077,Už,44778,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 11:24:52",Už,1
-9758078,Už,44778,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 11:24:52",Už,1
-9758079,Už,44778,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 11:24:52",Už,1
-9758080,Už,44778,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 11:24:52",Už,1
-9758081,Už,44778,50659051,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 11:24:52",Už,1
-9758082,Už,44778,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 11:24:52",Už,1
-9758083,Už,44778,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 11:24:52",Už,1
-9758084,Už,44778,50659051,"Gžegož Sakson","Gžegož Sakson","2018-06-19 11:24:52",Už,1
-9758085,Už,44778,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 11:24:52",Už,1
-9758086,Už,44778,50659051,"Edita Šiško","Edita Šiško","2018-06-19 11:24:52",Už,1
-9758087,Už,44778,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 11:24:52",Už,1
-9758088,Už,44778,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 11:24:52",Už,1
-9758089,Už,44778,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 11:24:52",Už,1
-9758090,Už,44778,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 11:24:52",Už,1
-9758091,Už,44778,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 11:24:52",Už,1
-9758092,Už,44778,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 11:24:52",Už,1
-9758093,Prieš,44778,50659051,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 11:24:52",Prieš,3
-9758094,Susilaikė,44778,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 11:24:52",Susilaikė,2
-9758095,Susilaikė,44778,50659051,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 11:24:52",Susilaikė,2
-9758096,Susilaikė,44778,50659051,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 11:24:52",Susilaikė,2
-9758097,Susilaikė,44778,50659051,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 11:24:52",Susilaikė,2
-9758098,Susilaikė,44778,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 11:24:52",Susilaikė,2
-9758099,Susilaikė,44778,50659051,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 11:24:52",Susilaikė,2
-9758100,Susilaikė,44778,50659051,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 11:24:52",Susilaikė,2
-9758101,Už,44600,50659051,Šimašius,Šimašius,"2018-06-19 12:15:31",Už,1
-9758102,Už,44481,50659051,Šimašius,Šimašius,"2018-06-19 11:49:12",Už,1
-9758103,Už,44482,50659051,Šimašius,Šimašius,"2018-06-19 11:49:12",Už,1
-9758104,Už,44483,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 11:51:22",Už,1
-9758105,Už,44483,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 11:51:22",Už,1
-9758106,Už,44483,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 11:51:22",Už,1
-9758107,Už,44483,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 11:51:22",Už,1
-9758108,Už,44483,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 11:51:22",Už,1
-9758109,Už,44483,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 11:51:22",Už,1
-9758110,Už,44483,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 11:51:22",Už,1
-9758111,Už,44483,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 11:51:22",Už,1
-9758112,Už,44483,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 11:51:22",Už,1
-9758113,Už,44483,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 11:51:22",Už,1
-9758114,Už,44483,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 11:51:22",Už,1
-9758115,Už,44483,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 11:51:22",Už,1
-9758116,Už,44483,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 11:51:22",Už,1
-9758117,Už,44483,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 11:51:22",Už,1
-9758118,Už,44483,50659051,"Gžegož Sakson","Gžegož Sakson","2018-06-19 11:51:22",Už,1
-9758119,Už,44483,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 11:51:22",Už,1
-9758120,Už,44483,50659051,"Edita Šiško","Edita Šiško","2018-06-19 11:51:22",Už,1
-9758121,Už,44483,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 11:51:22",Už,1
-9758122,Už,44483,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 11:51:22",Už,1
-9758123,Už,44483,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 11:51:22",Už,1
-9758124,Už,44483,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 11:51:22",Už,1
-9758125,Susilaikė,44483,50659051,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 11:51:22",Susilaikė,2
-9758126,Susilaikė,44483,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 11:51:22",Susilaikė,2
-9758127,Susilaikė,44483,50659051,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 11:51:22",Susilaikė,2
-9758128,Susilaikė,44483,50659051,"Algis Čaplikas","Algis Čaplikas","2018-06-19 11:51:22",Susilaikė,2
-9758129,Susilaikė,44483,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 11:51:22",Susilaikė,2
-9758130,Susilaikė,44483,50659051,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 11:51:22",Susilaikė,2
-9758131,Susilaikė,44483,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 11:51:22",Susilaikė,2
-9758132,Susilaikė,44483,50659051,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 11:51:22",Susilaikė,2
-9758133,Susilaikė,44483,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 11:51:22",Susilaikė,2
-9758134,Susilaikė,44483,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 11:51:22",Susilaikė,2
-9758135,Susilaikė,44483,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 11:51:22",Susilaikė,2
-9758136,Už,44484,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:03:00",Už,1
-9758137,Už,44484,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:03:00",Už,1
-9758138,Už,44484,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:03:00",Už,1
-9758139,Už,44484,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:03:00",Už,1
-9758140,Už,44484,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 12:03:00",Už,1
-9758141,Už,44484,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:03:00",Už,1
-9758142,Už,44484,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:03:00",Už,1
-9758143,Už,44484,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 12:03:00",Už,1
-9758144,Už,44484,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:03:00",Už,1
-9758145,Už,44484,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:03:00",Už,1
-9758146,Už,44484,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:03:00",Už,1
-9758147,Už,44484,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 12:03:00",Už,1
-9758148,Už,44484,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:03:00",Už,1
-9758149,Už,44484,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:03:00",Už,1
-9758150,Už,44484,50659051,"Gžegož Sakson","Gžegož Sakson","2018-06-19 12:03:00",Už,1
-9758151,Už,44484,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:03:00",Už,1
-9758152,Už,44484,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:03:00",Už,1
-9758153,Už,44484,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:03:00",Už,1
-9758154,Už,44484,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:03:00",Už,1
-9758155,Už,44484,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:03:00",Už,1
-9758156,Už,44484,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:03:00",Už,1
-9758157,Prieš,44484,50659051,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 12:03:00",Prieš,3
-9758158,Prieš,44484,50659051,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 12:03:00",Prieš,3
-9758159,Susilaikė,44484,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 12:03:00",Susilaikė,2
-9758160,Susilaikė,44484,50659051,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 12:03:00",Susilaikė,2
-9758161,Susilaikė,44484,50659051,"Algis Čaplikas","Algis Čaplikas","2018-06-19 12:03:00",Susilaikė,2
-9758162,Susilaikė,44484,50659051,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 12:03:00",Susilaikė,2
-9758163,Susilaikė,44484,50659051,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 12:03:00",Susilaikė,2
-9758164,Susilaikė,44484,50659051,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 12:03:00",Susilaikė,2
-9758165,Susilaikė,44484,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:03:00",Susilaikė,2
-9758166,Susilaikė,44484,50659051,"Edita Šiško","Edita Šiško","2018-06-19 12:03:00",Susilaikė,2
-9758167,Susilaikė,44484,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 12:03:00",Susilaikė,2
-9758168,Susilaikė,44484,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:03:00",Susilaikė,2
-9758169,Susilaikė,44484,50659051,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 12:03:00",Susilaikė,2
-9758170,Prieš,44485,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Prieš,3
-9758171,Už,44486,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
-9758172,Už,44784,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
-9758173,Už,44816,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
-9758174,Už,44817,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
-9758175,Už,44818,50659051,Šimašius,Šimašius,"2018-06-19 12:09:41",Už,1
-9758176,Už,44819,50659051,Šimašius,Šimašius,"2018-06-19 12:09:41",Už,1
-9758177,Už,44820,50659051,Šimašius,Šimašius,"2018-06-19 12:10:26",Už,1
-9758178,Už,44821,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:15:12",Už,1
-9758179,Už,44821,50659051,"Algis Čaplikas","Algis Čaplikas","2018-06-19 12:15:12",Už,1
-9758180,Už,44821,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:15:12",Už,1
-9758181,Už,44821,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:15:12",Už,1
-9758182,Už,44821,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:15:12",Už,1
-9758183,Už,44821,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 12:15:12",Už,1
-9758184,Už,44821,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 12:15:12",Už,1
-9758185,Už,44821,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:15:12",Už,1
-9758186,Už,44821,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:15:12",Už,1
-9758187,Už,44821,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 12:15:12",Už,1
-9758188,Už,44821,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:15:12",Už,1
-9758189,Už,44821,50659051,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 12:15:12",Už,1
-9758190,Už,44821,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:15:12",Už,1
-9758191,Už,44821,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:15:12",Už,1
-9758192,Už,44821,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 12:15:12",Už,1
-9758193,Už,44821,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:15:12",Už,1
-9758194,Už,44821,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:15:12",Už,1
-9758195,Už,44821,50659051,"Gžegož Sakson","Gžegož Sakson","2018-06-19 12:15:12",Už,1
-9758196,Už,44821,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:15:12",Už,1
-9758197,Už,44821,50659051,"Edita Šiško","Edita Šiško","2018-06-19 12:15:12",Už,1
-9758198,Už,44821,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:15:12",Už,1
-9758199,Už,44821,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:15:12",Už,1
-9758200,Už,44821,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:15:12",Už,1
-9758201,Už,44821,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:15:12",Už,1
-9758202,Už,44821,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:15:12",Už,1
-9758203,Už,44821,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:15:12",Už,1
-9758204,Susilaikė,44821,50659051,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 12:15:12",Susilaikė,2
-9758205,Susilaikė,44821,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 12:15:12",Susilaikė,2
-9758206,Susilaikė,44821,50659051,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 12:15:12",Susilaikė,2
-9758207,Susilaikė,44821,50659051,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 12:15:12",Susilaikė,2
-9758208,Susilaikė,44821,50659051,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 12:15:12",Susilaikė,2
-9758209,Susilaikė,44821,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:15:12",Susilaikė,2
-9758210,Susilaikė,44821,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 12:15:12",Susilaikė,2
-9758211,Susilaikė,44821,50659051,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 12:15:12",Susilaikė,2
-9758212,Už,44830,50659051,Šimašius,Šimašius,"2018-06-19 12:16:21",Už,1
-9758213,Už,44831,50659051,Šimašius,Šimašius,"2018-06-19 12:18:54",Už,1
-9758214,Už,44832,50659051,Šimašius,Šimašius,"2018-06-19 12:18:54",Už,1
-9758215,Už,44833,50659051,Šimašius,Šimašius,"2018-06-19 12:19:26",Už,1
-9758216,Už,44834,50659051,Šimašius,Šimašius,"2018-06-19 12:25:34",Už,1
-9758217,Už,44835,50659051,Šimašius,Šimašius,"2018-06-19 12:25:34",Už,1
-9758218,Už,44836,50659051,Šimašius,Šimašius,"2018-06-19 12:44:27",Už,1
-9758219,Už,44837,50659051,Šimašius,Šimašius,"2018-06-19 12:44:27",Už,1
-9758220,Už,44838,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:52:23",Už,1
-9758221,Už,44838,50659051,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 12:52:23",Už,1
-9758222,Už,44838,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:52:23",Už,1
-9758223,Už,44838,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:52:23",Už,1
-9758224,Už,44838,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:52:23",Už,1
-9758225,Už,44838,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 12:52:23",Už,1
-9758226,Už,44838,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 12:52:23",Už,1
-9758227,Už,44838,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 12:52:23",Už,1
-9758228,Už,44838,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:52:23",Už,1
-9758229,Už,44838,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:52:23",Už,1
-9758230,Už,44838,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 12:52:23",Už,1
-9758231,Už,44838,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:52:23",Už,1
-9758232,Už,44838,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 12:52:23",Už,1
-9758233,Už,44838,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:52:23",Už,1
-9758234,Už,44838,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:52:23",Už,1
-9758235,Už,44838,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:52:23",Už,1
-9758236,Už,44838,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:52:23",Už,1
-9758237,Už,44838,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:52:23",Už,1
-9758238,Už,44838,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:52:23",Už,1
-9758239,Už,44838,50659051,"Edita Šiško","Edita Šiško","2018-06-19 12:52:23",Už,1
-9758240,Už,44838,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:52:23",Už,1
-9758241,Už,44838,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:52:23",Už,1
-9758242,Už,44838,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:52:23",Už,1
-9758243,Už,44838,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:52:23",Už,1
-9758244,Už,44838,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:52:23",Už,1
-9758245,Susilaikė,44838,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:52:23",Susilaikė,2
-9758246,Už,44839,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 13:19:55",Už,1
-9758247,Už,44839,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:19:55",Už,1
-9758248,Už,44839,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:19:55",Už,1
-9758249,Už,44839,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:19:55",Už,1
-9758250,Už,44839,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:19:55",Už,1
-9758251,Už,44839,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:19:55",Už,1
-9758252,Už,44839,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:19:55",Už,1
-9758253,Prieš,44839,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:19:55",Prieš,3
-9758254,Prieš,44839,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:19:55",Prieš,3
-9758255,Susilaikė,44839,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:19:55",Susilaikė,2
-9758256,Susilaikė,44839,50659051,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 13:19:55",Susilaikė,2
-9758257,Už,44840,50659051,Šimašius,Šimašius,"2018-06-19 13:11:05",Už,1
-9758258,Už,44841,50659051,Šimašius,Šimašius,"2018-06-19 13:11:07",Už,1
-9758259,Už,44842,50659051,Šimašius,Šimašius,"2018-06-19 13:12:37",Už,1
-9758260,Už,44806,50659051,Šimašius,Šimašius,"2018-06-19 13:25:14",Už,1
-9758261,Už,44807,50659051,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:20:38",Už,1
-9758262,Už,44807,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 13:20:38",Už,1
-9758263,Už,44807,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:20:38",Už,1
-9758264,Už,44807,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:20:38",Už,1
-9758265,Už,44807,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 13:20:38",Už,1
-9758266,Už,44807,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:20:38",Už,1
-9758267,Už,44807,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 13:20:38",Už,1
-9758268,Už,44807,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:20:38",Už,1
-9758269,Už,44807,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:20:38",Už,1
-9758270,Už,44807,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:20:38",Už,1
-9758271,Už,44807,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:20:38",Už,1
-9758272,Už,44807,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:20:38",Už,1
-9758273,Už,44807,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:20:38",Už,1
-9758274,Už,44807,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:20:38",Už,1
-9758275,Už,44807,50659051,"Edita Šiško","Edita Šiško","2018-06-19 13:20:38",Už,1
-9758276,Už,44807,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:20:38",Už,1
-9758277,Už,44807,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:20:38",Už,1
-9758278,Už,44807,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:20:38",Už,1
-9758279,Už,44807,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:20:38",Už,1
-9758280,Prieš,44807,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:20:38",Prieš,3
-9758281,Prieš,44807,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:20:38",Prieš,3
-9758282,Prieš,44807,50659051,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 13:20:38",Prieš,3
-9758283,Susilaikė,44807,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:20:38",Susilaikė,2
-9758284,Susilaikė,44807,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 13:20:38",Susilaikė,2
-9758285,Susilaikė,44807,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:20:38",Susilaikė,2
-9758286,Susilaikė,44807,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 13:20:38",Susilaikė,2
-9758287,Susilaikė,44807,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:20:38",Susilaikė,2
-9758288,Susilaikė,44807,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 13:20:38",Susilaikė,2
-9758289,Už,44805,50659051,Šimašius,Šimašius,"2018-06-19 13:22:11",Už,1
-9758290,Už,44808,50659051,Šimašius,Šimašius,"2018-06-19 13:24:37",Už,1
-9758291,Už,44809,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:28:45",Už,1
-9758292,Už,44809,50659051,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:28:45",Už,1
-9758293,Už,44809,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:28:45",Už,1
-9758294,Už,44809,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:28:45",Už,1
-9758295,Už,44809,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:28:45",Už,1
-9758296,Už,44809,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:28:45",Už,1
-9758297,Už,44809,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 13:28:45",Už,1
-9758298,Už,44809,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:28:45",Už,1
-9758299,Už,44809,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:28:45",Už,1
-9758300,Už,44809,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:28:45",Už,1
-9758301,Už,44809,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:28:45",Už,1
-9758302,Už,44809,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:28:45",Už,1
-9758303,Už,44809,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:28:45",Už,1
-9758304,Už,44809,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:28:45",Už,1
-9758305,Už,44809,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:28:45",Už,1
-9758306,Už,44809,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:28:45",Už,1
-9758307,Už,44809,50659051,"Edita Šiško","Edita Šiško","2018-06-19 13:28:45",Už,1
-9758308,Už,44809,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:28:45",Už,1
-9758309,Už,44809,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:28:45",Už,1
-9758310,Už,44809,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:28:45",Už,1
-9758311,Už,44809,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:28:45",Už,1
-9758312,Susilaikė,44809,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 13:28:45",Susilaikė,2
-9758313,Susilaikė,44809,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 13:28:45",Susilaikė,2
-9758314,Susilaikė,44809,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 13:28:45",Susilaikė,2
-9758315,Susilaikė,44809,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:28:45",Susilaikė,2
-9758316,Susilaikė,44809,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 13:28:45",Susilaikė,2
-9758317,Už,44810,50659051,Šimašius,Šimašius,"2018-06-19 13:31:20",Už,1
-9758318,Už,44811,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:35:17",Už,1
-9758319,Už,44811,50659051,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:35:17",Už,1
-9758320,Už,44811,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:35:17",Už,1
-9758321,Už,44811,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:35:17",Už,1
-9758322,Už,44811,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:35:17",Už,1
-9758323,Už,44811,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:35:17",Už,1
-9758324,Už,44811,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 13:35:17",Už,1
-9758325,Už,44811,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:35:17",Už,1
-9758326,Už,44811,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:35:17",Už,1
-9758327,Už,44811,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 13:35:17",Už,1
-9758328,Už,44811,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:35:17",Už,1
-9758329,Už,44811,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:35:17",Už,1
-9758330,Už,44811,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:35:17",Už,1
-9758331,Už,44811,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:35:17",Už,1
-9758332,Už,44811,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:35:17",Už,1
-9758333,Už,44811,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:35:17",Už,1
-9758334,Už,44811,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:35:17",Už,1
-9758335,Už,44811,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:35:17",Už,1
-9758336,Už,44811,50659051,"Edita Šiško","Edita Šiško","2018-06-19 13:35:17",Už,1
-9758337,Už,44811,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:35:17",Už,1
-9758338,Už,44811,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:35:17",Už,1
-9758339,Už,44811,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:35:17",Už,1
-9758340,Susilaikė,44811,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:35:17",Susilaikė,2
+9814115,Už,44844,50703939,Šimašius,Šimašius,"2018-06-19 11:26:01",Už,1
+9814116,Už,44845,50703939,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 11:24:52",Už,1
+9814117,Už,44845,50703939,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 11:24:52",Už,1
+9814118,Už,44845,50703939,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 11:24:52",Už,1
+9814119,Už,44845,50703939,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 11:24:52",Už,1
+9814120,Už,44845,50703939,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 11:24:52",Už,1
+9814121,Už,44845,50703939,"Andrius Katinas","Andrius Katinas","2018-06-19 11:24:52",Už,1
+9814122,Už,44845,50703939,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 11:24:52",Už,1
+9814123,Už,44845,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 11:24:52",Už,1
+9814124,Už,44845,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 11:24:52",Už,1
+9814125,Už,44845,50703939,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 11:24:52",Už,1
+9814126,Už,44845,50703939,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 11:24:52",Už,1
+9814127,Už,44845,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 11:24:52",Už,1
+9814128,Už,44845,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 11:24:52",Už,1
+9814129,Už,44845,50703939,"Gžegož Sakson","Gžegož Sakson","2018-06-19 11:24:52",Už,1
+9814130,Už,44845,50703939,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 11:24:52",Už,1
+9814131,Už,44845,50703939,"Edita Šiško","Edita Šiško","2018-06-19 11:24:52",Už,1
+9814132,Už,44845,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 11:24:52",Už,1
+9814133,Už,44845,50703939,"Valerij Stankevič","Valerij Stankevič","2018-06-19 11:24:52",Už,1
+9814134,Už,44845,50703939,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 11:24:52",Už,1
+9814135,Už,44845,50703939,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 11:24:52",Už,1
+9814136,Už,44845,50703939,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 11:24:52",Už,1
+9814137,Už,44845,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 11:24:52",Už,1
+9814138,Prieš,44845,50703939,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 11:24:52",Prieš,3
+9814139,Susilaikė,44845,50703939,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 11:24:52",Susilaikė,2
+9814140,Susilaikė,44845,50703939,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 11:24:52",Susilaikė,2
+9814141,Susilaikė,44845,50703939,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 11:24:52",Susilaikė,2
+9814142,Susilaikė,44845,50703939,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 11:24:52",Susilaikė,2
+9814143,Susilaikė,44845,50703939,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 11:24:52",Susilaikė,2
+9814144,Susilaikė,44845,50703939,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 11:24:52",Susilaikė,2
+9814145,Susilaikė,44845,50703939,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 11:24:52",Susilaikė,2
+9814146,Už,44846,50703939,Šimašius,Šimašius,"2018-06-19 12:15:31",Už,1
+9814147,Už,44847,50703939,Šimašius,Šimašius,"2018-06-19 11:49:12",Už,1
+9814148,Už,44848,50703939,Šimašius,Šimašius,"2018-06-19 11:49:12",Už,1
+9814149,Už,44849,50703939,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 11:51:22",Už,1
+9814150,Už,44849,50703939,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 11:51:22",Už,1
+9814151,Už,44849,50703939,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 11:51:22",Už,1
+9814152,Už,44849,50703939,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 11:51:22",Už,1
+9814153,Už,44849,50703939,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 11:51:22",Už,1
+9814154,Už,44849,50703939,"Andrius Katinas","Andrius Katinas","2018-06-19 11:51:22",Už,1
+9814155,Už,44849,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 11:51:22",Už,1
+9814156,Už,44849,50703939,"Darius Kuolys","Darius Kuolys","2018-06-19 11:51:22",Už,1
+9814157,Už,44849,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 11:51:22",Už,1
+9814158,Už,44849,50703939,"Artur Liudkovski","Artur Liudkovski","2018-06-19 11:51:22",Už,1
+9814159,Už,44849,50703939,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 11:51:22",Už,1
+9814160,Už,44849,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 11:51:22",Už,1
+9814161,Už,44849,50703939,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 11:51:22",Už,1
+9814162,Už,44849,50703939,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 11:51:22",Už,1
+9814163,Už,44849,50703939,"Gžegož Sakson","Gžegož Sakson","2018-06-19 11:51:22",Už,1
+9814164,Už,44849,50703939,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 11:51:22",Už,1
+9814165,Už,44849,50703939,"Edita Šiško","Edita Šiško","2018-06-19 11:51:22",Už,1
+9814166,Už,44849,50703939,"Valerij Stankevič","Valerij Stankevič","2018-06-19 11:51:22",Už,1
+9814167,Už,44849,50703939,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 11:51:22",Už,1
+9814168,Už,44849,50703939,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 11:51:22",Už,1
+9814169,Už,44849,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 11:51:22",Už,1
+9814170,Susilaikė,44849,50703939,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 11:51:22",Susilaikė,2
+9814171,Susilaikė,44849,50703939,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 11:51:22",Susilaikė,2
+9814172,Susilaikė,44849,50703939,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 11:51:22",Susilaikė,2
+9814173,Susilaikė,44849,50703939,"Algis Čaplikas","Algis Čaplikas","2018-06-19 11:51:22",Susilaikė,2
+9814174,Susilaikė,44849,50703939,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 11:51:22",Susilaikė,2
+9814175,Susilaikė,44849,50703939,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 11:51:22",Susilaikė,2
+9814176,Susilaikė,44849,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 11:51:22",Susilaikė,2
+9814177,Susilaikė,44849,50703939,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 11:51:22",Susilaikė,2
+9814178,Susilaikė,44849,50703939,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 11:51:22",Susilaikė,2
+9814179,Susilaikė,44849,50703939,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 11:51:22",Susilaikė,2
+9814180,Susilaikė,44849,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 11:51:22",Susilaikė,2
+9814181,Už,44850,50703939,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:03:00",Už,1
+9814182,Už,44850,50703939,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:03:00",Už,1
+9814183,Už,44850,50703939,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:03:00",Už,1
+9814184,Už,44850,50703939,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:03:00",Už,1
+9814185,Už,44850,50703939,"Andrius Katinas","Andrius Katinas","2018-06-19 12:03:00",Už,1
+9814186,Už,44850,50703939,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:03:00",Už,1
+9814187,Už,44850,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:03:00",Už,1
+9814188,Už,44850,50703939,"Darius Kuolys","Darius Kuolys","2018-06-19 12:03:00",Už,1
+9814189,Už,44850,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:03:00",Už,1
+9814190,Už,44850,50703939,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:03:00",Už,1
+9814191,Už,44850,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:03:00",Už,1
+9814192,Už,44850,50703939,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 12:03:00",Už,1
+9814193,Už,44850,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:03:00",Už,1
+9814194,Už,44850,50703939,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:03:00",Už,1
+9814195,Už,44850,50703939,"Gžegož Sakson","Gžegož Sakson","2018-06-19 12:03:00",Už,1
+9814196,Už,44850,50703939,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:03:00",Už,1
+9814197,Už,44850,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:03:00",Už,1
+9814198,Už,44850,50703939,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:03:00",Už,1
+9814199,Už,44850,50703939,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:03:00",Už,1
+9814200,Už,44850,50703939,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:03:00",Už,1
+9814201,Už,44850,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:03:00",Už,1
+9814202,Prieš,44850,50703939,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 12:03:00",Prieš,3
+9814203,Prieš,44850,50703939,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 12:03:00",Prieš,3
+9814204,Susilaikė,44850,50703939,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 12:03:00",Susilaikė,2
+9814205,Susilaikė,44850,50703939,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 12:03:00",Susilaikė,2
+9814206,Susilaikė,44850,50703939,"Algis Čaplikas","Algis Čaplikas","2018-06-19 12:03:00",Susilaikė,2
+9814207,Susilaikė,44850,50703939,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 12:03:00",Susilaikė,2
+9814208,Susilaikė,44850,50703939,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 12:03:00",Susilaikė,2
+9814209,Susilaikė,44850,50703939,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 12:03:00",Susilaikė,2
+9814210,Susilaikė,44850,50703939,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:03:00",Susilaikė,2
+9814211,Susilaikė,44850,50703939,"Edita Šiško","Edita Šiško","2018-06-19 12:03:00",Susilaikė,2
+9814212,Susilaikė,44850,50703939,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 12:03:00",Susilaikė,2
+9814213,Susilaikė,44850,50703939,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:03:00",Susilaikė,2
+9814214,Susilaikė,44850,50703939,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 12:03:00",Susilaikė,2
+9814215,Prieš,44851,50703939,Šimašius,Šimašius,"2018-06-19 12:09:40",Prieš,3
+9814216,Už,44852,50703939,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
+9814217,Už,44853,50703939,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
+9814218,Už,44854,50703939,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
+9814219,Už,44855,50703939,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
+9814220,Už,44856,50703939,Šimašius,Šimašius,"2018-06-19 12:09:41",Už,1
+9814221,Už,44857,50703939,Šimašius,Šimašius,"2018-06-19 12:09:41",Už,1
+9814222,Už,44858,50703939,Šimašius,Šimašius,"2018-06-19 12:10:26",Už,1
+9814223,Už,44859,50703939,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:15:12",Už,1
+9814224,Už,44859,50703939,"Algis Čaplikas","Algis Čaplikas","2018-06-19 12:15:12",Už,1
+9814225,Už,44859,50703939,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:15:12",Už,1
+9814226,Už,44859,50703939,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:15:12",Už,1
+9814227,Už,44859,50703939,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:15:12",Už,1
+9814228,Už,44859,50703939,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 12:15:12",Už,1
+9814229,Už,44859,50703939,"Andrius Katinas","Andrius Katinas","2018-06-19 12:15:12",Už,1
+9814230,Už,44859,50703939,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:15:12",Už,1
+9814231,Už,44859,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:15:12",Už,1
+9814232,Už,44859,50703939,"Darius Kuolys","Darius Kuolys","2018-06-19 12:15:12",Už,1
+9814233,Už,44859,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:15:12",Už,1
+9814234,Už,44859,50703939,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 12:15:12",Už,1
+9814235,Už,44859,50703939,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:15:12",Už,1
+9814236,Už,44859,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:15:12",Už,1
+9814237,Už,44859,50703939,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 12:15:12",Už,1
+9814238,Už,44859,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:15:12",Už,1
+9814239,Už,44859,50703939,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:15:12",Už,1
+9814240,Už,44859,50703939,"Gžegož Sakson","Gžegož Sakson","2018-06-19 12:15:12",Už,1
+9814241,Už,44859,50703939,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:15:12",Už,1
+9814242,Už,44859,50703939,"Edita Šiško","Edita Šiško","2018-06-19 12:15:12",Už,1
+9814243,Už,44859,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:15:12",Už,1
+9814244,Už,44859,50703939,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:15:12",Už,1
+9814245,Už,44859,50703939,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:15:12",Už,1
+9814246,Už,44859,50703939,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:15:12",Už,1
+9814247,Už,44859,50703939,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:15:12",Už,1
+9814248,Už,44859,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:15:12",Už,1
+9814249,Susilaikė,44859,50703939,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 12:15:12",Susilaikė,2
+9814250,Susilaikė,44859,50703939,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 12:15:12",Susilaikė,2
+9814251,Susilaikė,44859,50703939,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 12:15:12",Susilaikė,2
+9814252,Susilaikė,44859,50703939,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 12:15:12",Susilaikė,2
+9814253,Susilaikė,44859,50703939,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 12:15:12",Susilaikė,2
+9814254,Susilaikė,44859,50703939,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:15:12",Susilaikė,2
+9814255,Susilaikė,44859,50703939,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 12:15:12",Susilaikė,2
+9814256,Susilaikė,44859,50703939,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 12:15:12",Susilaikė,2
+9814257,Už,44860,50703939,Šimašius,Šimašius,"2018-06-19 12:16:21",Už,1
+9814258,Už,44861,50703939,Šimašius,Šimašius,"2018-06-19 12:18:54",Už,1
+9814259,Už,44862,50703939,Šimašius,Šimašius,"2018-06-19 12:18:54",Už,1
+9814260,Už,44863,50703939,Šimašius,Šimašius,"2018-06-19 12:19:26",Už,1
+9814261,Už,44864,50703939,Šimašius,Šimašius,"2018-06-19 12:25:34",Už,1
+9814262,Už,44865,50703939,Šimašius,Šimašius,"2018-06-19 12:25:34",Už,1
+9814263,Už,44866,50703939,Šimašius,Šimašius,"2018-06-19 12:44:27",Už,1
+9814264,Už,44867,50703939,Šimašius,Šimašius,"2018-06-19 12:44:27",Už,1
+9814265,Už,44868,50703939,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:52:23",Už,1
+9814266,Už,44868,50703939,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 12:52:23",Už,1
+9814267,Už,44868,50703939,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:52:23",Už,1
+9814268,Už,44868,50703939,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:52:23",Už,1
+9814269,Už,44868,50703939,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:52:23",Už,1
+9814270,Už,44868,50703939,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 12:52:23",Už,1
+9814271,Už,44868,50703939,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 12:52:23",Už,1
+9814272,Už,44868,50703939,"Andrius Katinas","Andrius Katinas","2018-06-19 12:52:23",Už,1
+9814273,Už,44868,50703939,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:52:23",Už,1
+9814274,Už,44868,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:52:23",Už,1
+9814275,Už,44868,50703939,"Darius Kuolys","Darius Kuolys","2018-06-19 12:52:23",Už,1
+9814276,Už,44868,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:52:23",Už,1
+9814277,Už,44868,50703939,"Artur Liudkovski","Artur Liudkovski","2018-06-19 12:52:23",Už,1
+9814278,Už,44868,50703939,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:52:23",Už,1
+9814279,Už,44868,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:52:23",Už,1
+9814280,Už,44868,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:52:23",Už,1
+9814281,Už,44868,50703939,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:52:23",Už,1
+9814282,Už,44868,50703939,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:52:23",Už,1
+9814283,Už,44868,50703939,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:52:23",Už,1
+9814284,Už,44868,50703939,"Edita Šiško","Edita Šiško","2018-06-19 12:52:23",Už,1
+9814285,Už,44868,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:52:23",Už,1
+9814286,Už,44868,50703939,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:52:23",Už,1
+9814287,Už,44868,50703939,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:52:23",Už,1
+9814288,Už,44868,50703939,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:52:23",Už,1
+9814289,Už,44868,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:52:23",Už,1
+9814290,Susilaikė,44868,50703939,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:52:23",Susilaikė,2
+9814291,Už,44869,50703939,"Darius Kuolys","Darius Kuolys","2018-06-19 13:19:55",Už,1
+9814292,Už,44869,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:19:55",Už,1
+9814293,Už,44869,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:19:55",Už,1
+9814294,Už,44869,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:19:55",Už,1
+9814295,Už,44869,50703939,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:19:55",Už,1
+9814296,Už,44869,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:19:55",Už,1
+9814297,Už,44869,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:19:55",Už,1
+9814298,Prieš,44869,50703939,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:19:55",Prieš,3
+9814299,Prieš,44869,50703939,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:19:55",Prieš,3
+9814300,Susilaikė,44869,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:19:55",Susilaikė,2
+9814301,Susilaikė,44869,50703939,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 13:19:55",Susilaikė,2
+9814302,Už,44870,50703939,Šimašius,Šimašius,"2018-06-19 13:11:05",Už,1
+9814303,Už,44871,50703939,Šimašius,Šimašius,"2018-06-19 13:11:07",Už,1
+9814304,Už,44872,50703939,Šimašius,Šimašius,"2018-06-19 13:12:37",Už,1
+9814305,Už,44875,50703939,Šimašius,Šimašius,"2018-06-19 13:25:14",Už,1
+9814306,Už,44876,50703939,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:20:38",Už,1
+9814307,Už,44876,50703939,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 13:20:38",Už,1
+9814308,Už,44876,50703939,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:20:38",Už,1
+9814309,Už,44876,50703939,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:20:38",Už,1
+9814310,Už,44876,50703939,"Andrius Katinas","Andrius Katinas","2018-06-19 13:20:38",Už,1
+9814311,Už,44876,50703939,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:20:38",Už,1
+9814312,Už,44876,50703939,"Darius Kuolys","Darius Kuolys","2018-06-19 13:20:38",Už,1
+9814313,Už,44876,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:20:38",Už,1
+9814314,Už,44876,50703939,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:20:38",Už,1
+9814315,Už,44876,50703939,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:20:38",Už,1
+9814316,Už,44876,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:20:38",Už,1
+9814317,Už,44876,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:20:38",Už,1
+9814318,Už,44876,50703939,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:20:38",Už,1
+9814319,Už,44876,50703939,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:20:38",Už,1
+9814320,Už,44876,50703939,"Edita Šiško","Edita Šiško","2018-06-19 13:20:38",Už,1
+9814321,Už,44876,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:20:38",Už,1
+9814322,Už,44876,50703939,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:20:38",Už,1
+9814323,Už,44876,50703939,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:20:38",Už,1
+9814324,Už,44876,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:20:38",Už,1
+9814325,Prieš,44876,50703939,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:20:38",Prieš,3
+9814326,Prieš,44876,50703939,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:20:38",Prieš,3
+9814327,Prieš,44876,50703939,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 13:20:38",Prieš,3
+9814328,Susilaikė,44876,50703939,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:20:38",Susilaikė,2
+9814329,Susilaikė,44876,50703939,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 13:20:38",Susilaikė,2
+9814330,Susilaikė,44876,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:20:38",Susilaikė,2
+9814331,Susilaikė,44876,50703939,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 13:20:38",Susilaikė,2
+9814332,Susilaikė,44876,50703939,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:20:38",Susilaikė,2
+9814333,Susilaikė,44876,50703939,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 13:20:38",Susilaikė,2
+9814334,Už,44874,50703939,Šimašius,Šimašius,"2018-06-19 13:22:11",Už,1
+9814335,Už,44877,50703939,Šimašius,Šimašius,"2018-06-19 13:24:37",Už,1
+9814336,Už,44878,50703939,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:28:45",Už,1
+9814337,Už,44878,50703939,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:28:45",Už,1
+9814338,Už,44878,50703939,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:28:45",Už,1
+9814339,Už,44878,50703939,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:28:45",Už,1
+9814340,Už,44878,50703939,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:28:45",Už,1
+9814341,Už,44878,50703939,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:28:45",Už,1
+9814342,Už,44878,50703939,"Andrius Katinas","Andrius Katinas","2018-06-19 13:28:45",Už,1
+9814343,Už,44878,50703939,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:28:45",Už,1
+9814344,Už,44878,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:28:45",Už,1
+9814345,Už,44878,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:28:45",Už,1
+9814346,Už,44878,50703939,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:28:45",Už,1
+9814347,Už,44878,50703939,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:28:45",Už,1
+9814348,Už,44878,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:28:45",Už,1
+9814349,Už,44878,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:28:45",Už,1
+9814350,Už,44878,50703939,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:28:45",Už,1
+9814351,Už,44878,50703939,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:28:45",Už,1
+9814352,Už,44878,50703939,"Edita Šiško","Edita Šiško","2018-06-19 13:28:45",Už,1
+9814353,Už,44878,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:28:45",Už,1
+9814354,Už,44878,50703939,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:28:45",Už,1
+9814355,Už,44878,50703939,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:28:45",Už,1
+9814356,Už,44878,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:28:45",Už,1
+9814357,Susilaikė,44878,50703939,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 13:28:45",Susilaikė,2
+9814358,Susilaikė,44878,50703939,"Darius Kuolys","Darius Kuolys","2018-06-19 13:28:45",Susilaikė,2
+9814359,Susilaikė,44878,50703939,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 13:28:45",Susilaikė,2
+9814360,Susilaikė,44878,50703939,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:28:45",Susilaikė,2
+9814361,Susilaikė,44878,50703939,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 13:28:45",Susilaikė,2
+9814362,Už,44879,50703939,Šimašius,Šimašius,"2018-06-19 13:31:20",Už,1
+9814363,Už,44880,50703939,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:35:17",Už,1
+9814364,Už,44880,50703939,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:35:17",Už,1
+9814365,Už,44880,50703939,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:35:17",Už,1
+9814366,Už,44880,50703939,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:35:17",Už,1
+9814367,Už,44880,50703939,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:35:17",Už,1
+9814368,Už,44880,50703939,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:35:17",Už,1
+9814369,Už,44880,50703939,"Andrius Katinas","Andrius Katinas","2018-06-19 13:35:17",Už,1
+9814370,Už,44880,50703939,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:35:17",Už,1
+9814371,Už,44880,50703939,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:35:17",Už,1
+9814372,Už,44880,50703939,"Darius Kuolys","Darius Kuolys","2018-06-19 13:35:17",Už,1
+9814373,Už,44880,50703939,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:35:17",Už,1
+9814374,Už,44880,50703939,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:35:17",Už,1
+9814375,Už,44880,50703939,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:35:17",Už,1
+9814376,Už,44880,50703939,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:35:17",Už,1
+9814377,Už,44880,50703939,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:35:17",Už,1
+9814378,Už,44880,50703939,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:35:17",Už,1
+9814379,Už,44880,50703939,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:35:17",Už,1
+9814380,Už,44880,50703939,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:35:17",Už,1
+9814381,Už,44880,50703939,"Edita Šiško","Edita Šiško","2018-06-19 13:35:17",Už,1
+9814382,Už,44880,50703939,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:35:17",Už,1
+9814383,Už,44880,50703939,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:35:17",Už,1
+9814384,Už,44880,50703939,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:35:17",Už,1
+9814385,Susilaikė,44880,50703939,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:35:17",Susilaikė,2
+9824165,Už,44777,50659051,Šimašius,Šimašius,"2018-06-19 11:26:01",Už,1
+9824166,Už,44778,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 11:24:52",Už,1
+9824167,Už,44778,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 11:24:52",Už,1
+9824168,Už,44778,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 11:24:52",Už,1
+9824169,Už,44778,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 11:24:52",Už,1
+9824170,Už,44778,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 11:24:52",Už,1
+9824171,Už,44778,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 11:24:52",Už,1
+9824172,Už,44778,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 11:24:52",Už,1
+9824173,Už,44778,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 11:24:52",Už,1
+9824174,Už,44778,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 11:24:52",Už,1
+9824175,Už,44778,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 11:24:52",Už,1
+9824176,Už,44778,50659051,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 11:24:52",Už,1
+9824177,Už,44778,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 11:24:52",Už,1
+9824178,Už,44778,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 11:24:52",Už,1
+9824179,Už,44778,50659051,"Gžegož Sakson","Gžegož Sakson","2018-06-19 11:24:52",Už,1
+9824180,Už,44778,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 11:24:52",Už,1
+9824181,Už,44778,50659051,"Edita Šiško","Edita Šiško","2018-06-19 11:24:52",Už,1
+9824182,Už,44778,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 11:24:52",Už,1
+9824183,Už,44778,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 11:24:52",Už,1
+9824184,Už,44778,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 11:24:52",Už,1
+9824185,Už,44778,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 11:24:52",Už,1
+9824186,Už,44778,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 11:24:52",Už,1
+9824187,Už,44778,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 11:24:52",Už,1
+9824188,Prieš,44778,50659051,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 11:24:52",Prieš,3
+9824189,Susilaikė,44778,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 11:24:52",Susilaikė,2
+9824190,Susilaikė,44778,50659051,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 11:24:52",Susilaikė,2
+9824191,Susilaikė,44778,50659051,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 11:24:52",Susilaikė,2
+9824192,Susilaikė,44778,50659051,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 11:24:52",Susilaikė,2
+9824193,Susilaikė,44778,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 11:24:52",Susilaikė,2
+9824194,Susilaikė,44778,50659051,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 11:24:52",Susilaikė,2
+9824195,Susilaikė,44778,50659051,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 11:24:52",Susilaikė,2
+9824196,Už,44600,50659051,Šimašius,Šimašius,"2018-06-19 12:15:31",Už,1
+9824197,Už,44481,50659051,Šimašius,Šimašius,"2018-06-19 11:49:12",Už,1
+9824198,Už,44482,50659051,Šimašius,Šimašius,"2018-06-19 11:49:12",Už,1
+9824199,Už,44483,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 11:51:22",Už,1
+9824200,Už,44483,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 11:51:22",Už,1
+9824201,Už,44483,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 11:51:22",Už,1
+9824202,Už,44483,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 11:51:22",Už,1
+9824203,Už,44483,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 11:51:22",Už,1
+9824204,Už,44483,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 11:51:22",Už,1
+9824205,Už,44483,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 11:51:22",Už,1
+9824206,Už,44483,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 11:51:22",Už,1
+9824207,Už,44483,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 11:51:22",Už,1
+9824208,Už,44483,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 11:51:22",Už,1
+9824209,Už,44483,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 11:51:22",Už,1
+9824210,Už,44483,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 11:51:22",Už,1
+9824211,Už,44483,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 11:51:22",Už,1
+9824212,Už,44483,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 11:51:22",Už,1
+9824213,Už,44483,50659051,"Gžegož Sakson","Gžegož Sakson","2018-06-19 11:51:22",Už,1
+9824214,Už,44483,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 11:51:22",Už,1
+9824215,Už,44483,50659051,"Edita Šiško","Edita Šiško","2018-06-19 11:51:22",Už,1
+9824216,Už,44483,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 11:51:22",Už,1
+9824217,Už,44483,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 11:51:22",Už,1
+9824218,Už,44483,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 11:51:22",Už,1
+9824219,Už,44483,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 11:51:22",Už,1
+9824220,Susilaikė,44483,50659051,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 11:51:22",Susilaikė,2
+9824221,Susilaikė,44483,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 11:51:22",Susilaikė,2
+9824222,Susilaikė,44483,50659051,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 11:51:22",Susilaikė,2
+9824223,Susilaikė,44483,50659051,"Algis Čaplikas","Algis Čaplikas","2018-06-19 11:51:22",Susilaikė,2
+9824224,Susilaikė,44483,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 11:51:22",Susilaikė,2
+9824225,Susilaikė,44483,50659051,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 11:51:22",Susilaikė,2
+9824226,Susilaikė,44483,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 11:51:22",Susilaikė,2
+9824227,Susilaikė,44483,50659051,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 11:51:22",Susilaikė,2
+9824228,Susilaikė,44483,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 11:51:22",Susilaikė,2
+9824229,Susilaikė,44483,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 11:51:22",Susilaikė,2
+9824230,Susilaikė,44483,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 11:51:22",Susilaikė,2
+9824231,Už,44484,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:03:00",Už,1
+9824232,Už,44484,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:03:00",Už,1
+9824233,Už,44484,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:03:00",Už,1
+9824234,Už,44484,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:03:00",Už,1
+9824235,Už,44484,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 12:03:00",Už,1
+9824236,Už,44484,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:03:00",Už,1
+9824237,Už,44484,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:03:00",Už,1
+9824238,Už,44484,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 12:03:00",Už,1
+9824239,Už,44484,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:03:00",Už,1
+9824240,Už,44484,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:03:00",Už,1
+9824241,Už,44484,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:03:00",Už,1
+9824242,Už,44484,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 12:03:00",Už,1
+9824243,Už,44484,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:03:00",Už,1
+9824244,Už,44484,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:03:00",Už,1
+9824245,Už,44484,50659051,"Gžegož Sakson","Gžegož Sakson","2018-06-19 12:03:00",Už,1
+9824246,Už,44484,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:03:00",Už,1
+9824247,Už,44484,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:03:00",Už,1
+9824248,Už,44484,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:03:00",Už,1
+9824249,Už,44484,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:03:00",Už,1
+9824250,Už,44484,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:03:00",Už,1
+9824251,Už,44484,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:03:00",Už,1
+9824252,Prieš,44484,50659051,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 12:03:00",Prieš,3
+9824253,Prieš,44484,50659051,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 12:03:00",Prieš,3
+9824254,Susilaikė,44484,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 12:03:00",Susilaikė,2
+9824255,Susilaikė,44484,50659051,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 12:03:00",Susilaikė,2
+9824256,Susilaikė,44484,50659051,"Algis Čaplikas","Algis Čaplikas","2018-06-19 12:03:00",Susilaikė,2
+9824257,Susilaikė,44484,50659051,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 12:03:00",Susilaikė,2
+9824258,Susilaikė,44484,50659051,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 12:03:00",Susilaikė,2
+9824259,Susilaikė,44484,50659051,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 12:03:00",Susilaikė,2
+9824260,Susilaikė,44484,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:03:00",Susilaikė,2
+9824261,Susilaikė,44484,50659051,"Edita Šiško","Edita Šiško","2018-06-19 12:03:00",Susilaikė,2
+9824262,Susilaikė,44484,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 12:03:00",Susilaikė,2
+9824263,Susilaikė,44484,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:03:00",Susilaikė,2
+9824264,Susilaikė,44484,50659051,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 12:03:00",Susilaikė,2
+9824265,Prieš,44485,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Prieš,3
+9824266,Už,44486,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
+9824267,Už,44784,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
+9824268,Už,44816,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
+9824269,Už,44817,50659051,Šimašius,Šimašius,"2018-06-19 12:09:40",Už,1
+9824270,Už,44818,50659051,Šimašius,Šimašius,"2018-06-19 12:09:41",Už,1
+9824271,Už,44819,50659051,Šimašius,Šimašius,"2018-06-19 12:09:41",Už,1
+9824272,Už,44820,50659051,Šimašius,Šimašius,"2018-06-19 12:10:26",Už,1
+9824273,Už,44821,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:15:12",Už,1
+9824274,Už,44821,50659051,"Algis Čaplikas","Algis Čaplikas","2018-06-19 12:15:12",Už,1
+9824275,Už,44821,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:15:12",Už,1
+9824276,Už,44821,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:15:12",Už,1
+9824277,Už,44821,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:15:12",Už,1
+9824278,Už,44821,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 12:15:12",Už,1
+9824279,Už,44821,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 12:15:12",Už,1
+9824280,Už,44821,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:15:12",Už,1
+9824281,Už,44821,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:15:12",Už,1
+9824282,Už,44821,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 12:15:12",Už,1
+9824283,Už,44821,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:15:12",Už,1
+9824284,Už,44821,50659051,"Mindaugas Mačernis","Mindaugas Mačernis","2018-06-19 12:15:12",Už,1
+9824285,Už,44821,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:15:12",Už,1
+9824286,Už,44821,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:15:12",Už,1
+9824287,Už,44821,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 12:15:12",Už,1
+9824288,Už,44821,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:15:12",Už,1
+9824289,Už,44821,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:15:12",Už,1
+9824290,Už,44821,50659051,"Gžegož Sakson","Gžegož Sakson","2018-06-19 12:15:12",Už,1
+9824291,Už,44821,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:15:12",Už,1
+9824292,Už,44821,50659051,"Edita Šiško","Edita Šiško","2018-06-19 12:15:12",Už,1
+9824293,Už,44821,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:15:12",Už,1
+9824294,Už,44821,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:15:12",Už,1
+9824295,Už,44821,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:15:12",Už,1
+9824296,Už,44821,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:15:12",Už,1
+9824297,Už,44821,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:15:12",Už,1
+9824298,Už,44821,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:15:12",Už,1
+9824299,Susilaikė,44821,50659051,"Danutė Bekintienė","Danutė Bekintienė","2018-06-19 12:15:12",Susilaikė,2
+9824300,Susilaikė,44821,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 12:15:12",Susilaikė,2
+9824301,Susilaikė,44821,50659051,"Adomas Bužinskas","Adomas Bužinskas","2018-06-19 12:15:12",Susilaikė,2
+9824302,Susilaikė,44821,50659051,"Paulė Kuzmickienė","Paulė Kuzmickienė","2018-06-19 12:15:12",Susilaikė,2
+9824303,Susilaikė,44821,50659051,"Violeta Podolskaitė","Violeta Podolskaitė","2018-06-19 12:15:12",Susilaikė,2
+9824304,Susilaikė,44821,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:15:12",Susilaikė,2
+9824305,Susilaikė,44821,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 12:15:12",Susilaikė,2
+9824306,Susilaikė,44821,50659051,"Vidas Urbonavičius","Vidas Urbonavičius","2018-06-19 12:15:12",Susilaikė,2
+9824307,Už,44830,50659051,Šimašius,Šimašius,"2018-06-19 12:16:21",Už,1
+9824308,Už,44831,50659051,Šimašius,Šimašius,"2018-06-19 12:18:54",Už,1
+9824309,Už,44832,50659051,Šimašius,Šimašius,"2018-06-19 12:18:54",Už,1
+9824310,Už,44833,50659051,Šimašius,Šimašius,"2018-06-19 12:19:26",Už,1
+9824311,Už,44834,50659051,Šimašius,Šimašius,"2018-06-19 12:25:34",Už,1
+9824312,Už,44835,50659051,Šimašius,Šimašius,"2018-06-19 12:25:34",Už,1
+9824313,Už,44836,50659051,Šimašius,Šimašius,"2018-06-19 12:44:27",Už,1
+9824314,Už,44837,50659051,Šimašius,Šimašius,"2018-06-19 12:44:27",Už,1
+9824315,Už,44838,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 12:52:23",Už,1
+9824316,Už,44838,50659051,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 12:52:23",Už,1
+9824317,Už,44838,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 12:52:23",Už,1
+9824318,Už,44838,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 12:52:23",Už,1
+9824319,Už,44838,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 12:52:23",Už,1
+9824320,Už,44838,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 12:52:23",Už,1
+9824321,Už,44838,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 12:52:23",Už,1
+9824322,Už,44838,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 12:52:23",Už,1
+9824323,Už,44838,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 12:52:23",Už,1
+9824324,Už,44838,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 12:52:23",Už,1
+9824325,Už,44838,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 12:52:23",Už,1
+9824326,Už,44838,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 12:52:23",Už,1
+9824327,Už,44838,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 12:52:23",Už,1
+9824328,Už,44838,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 12:52:23",Už,1
+9824329,Už,44838,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 12:52:23",Už,1
+9824330,Už,44838,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 12:52:23",Už,1
+9824331,Už,44838,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 12:52:23",Už,1
+9824332,Už,44838,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 12:52:23",Už,1
+9824333,Už,44838,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 12:52:23",Už,1
+9824334,Už,44838,50659051,"Edita Šiško","Edita Šiško","2018-06-19 12:52:23",Už,1
+9824335,Už,44838,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 12:52:23",Už,1
+9824336,Už,44838,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 12:52:23",Už,1
+9824337,Už,44838,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 12:52:23",Už,1
+9824338,Už,44838,50659051,"Edita Tamošiūnaitė","Edita Tamošiūnaitė","2018-06-19 12:52:23",Už,1
+9824339,Už,44838,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 12:52:23",Už,1
+9824340,Susilaikė,44838,50659051,"Valerij Stankevič","Valerij Stankevič","2018-06-19 12:52:23",Susilaikė,2
+9824341,Už,44839,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 13:19:55",Už,1
+9824342,Už,44839,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:19:55",Už,1
+9824343,Už,44839,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:19:55",Už,1
+9824344,Už,44839,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:19:55",Už,1
+9824345,Už,44839,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:19:55",Už,1
+9824346,Už,44839,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:19:55",Už,1
+9824347,Už,44839,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:19:55",Už,1
+9824348,Prieš,44839,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:19:55",Prieš,3
+9824349,Prieš,44839,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:19:55",Prieš,3
+9824350,Susilaikė,44839,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:19:55",Susilaikė,2
+9824351,Susilaikė,44839,50659051,"Šarūnas Skučas","Šarūnas Skučas","2018-06-19 13:19:55",Susilaikė,2
+9824352,Už,44840,50659051,Šimašius,Šimašius,"2018-06-19 13:11:05",Už,1
+9824353,Už,44841,50659051,Šimašius,Šimašius,"2018-06-19 13:11:07",Už,1
+9824354,Už,44842,50659051,Šimašius,Šimašius,"2018-06-19 13:12:37",Už,1
+9824355,Už,44806,50659051,Šimašius,Šimašius,"2018-06-19 13:25:14",Už,1
+9824356,Už,44807,50659051,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:20:38",Už,1
+9824357,Už,44807,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 13:20:38",Už,1
+9824358,Už,44807,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:20:38",Už,1
+9824359,Už,44807,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:20:38",Už,1
+9824360,Už,44807,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 13:20:38",Už,1
+9824361,Už,44807,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:20:38",Už,1
+9824362,Už,44807,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 13:20:38",Už,1
+9824363,Už,44807,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:20:38",Už,1
+9824364,Už,44807,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:20:38",Už,1
+9824365,Už,44807,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:20:38",Už,1
+9824366,Už,44807,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:20:38",Už,1
+9824367,Už,44807,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:20:38",Už,1
+9824368,Už,44807,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:20:38",Už,1
+9824369,Už,44807,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:20:38",Už,1
+9824370,Už,44807,50659051,"Edita Šiško","Edita Šiško","2018-06-19 13:20:38",Už,1
+9824371,Už,44807,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:20:38",Už,1
+9824372,Už,44807,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:20:38",Už,1
+9824373,Už,44807,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:20:38",Už,1
+9824374,Už,44807,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:20:38",Už,1
+9824375,Prieš,44807,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:20:38",Prieš,3
+9824376,Prieš,44807,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:20:38",Prieš,3
+9824377,Prieš,44807,50659051,"Vidmantas Martikonis","Vidmantas Martikonis","2018-06-19 13:20:38",Prieš,3
+9824378,Susilaikė,44807,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:20:38",Susilaikė,2
+9824379,Susilaikė,44807,50659051,"Valdas Benkunskas","Valdas Benkunskas","2018-06-19 13:20:38",Susilaikė,2
+9824380,Susilaikė,44807,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:20:38",Susilaikė,2
+9824381,Susilaikė,44807,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 13:20:38",Susilaikė,2
+9824382,Susilaikė,44807,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:20:38",Susilaikė,2
+9824383,Susilaikė,44807,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 13:20:38",Susilaikė,2
+9824384,Už,44805,50659051,Šimašius,Šimašius,"2018-06-19 13:22:11",Už,1
+9824385,Už,44808,50659051,Šimašius,Šimašius,"2018-06-19 13:24:37",Už,1
+9824386,Už,44809,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:28:45",Už,1
+9824387,Už,44809,50659051,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:28:45",Už,1
+9824388,Už,44809,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:28:45",Už,1
+9824389,Už,44809,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:28:45",Už,1
+9824390,Už,44809,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:28:45",Už,1
+9824391,Už,44809,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:28:45",Už,1
+9824392,Už,44809,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 13:28:45",Už,1
+9824393,Už,44809,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:28:45",Už,1
+9824394,Už,44809,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:28:45",Už,1
+9824395,Už,44809,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:28:45",Už,1
+9824396,Už,44809,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:28:45",Už,1
+9824397,Už,44809,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:28:45",Už,1
+9824398,Už,44809,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:28:45",Už,1
+9824399,Už,44809,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:28:45",Už,1
+9824400,Už,44809,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:28:45",Už,1
+9824401,Už,44809,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:28:45",Už,1
+9824402,Už,44809,50659051,"Edita Šiško","Edita Šiško","2018-06-19 13:28:45",Už,1
+9824403,Už,44809,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:28:45",Už,1
+9824404,Už,44809,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:28:45",Už,1
+9824405,Už,44809,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:28:45",Už,1
+9824406,Už,44809,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:28:45",Už,1
+9824407,Susilaikė,44809,50659051,"Aleksandr Fiodorov","Aleksandr Fiodorov","2018-06-19 13:28:45",Susilaikė,2
+9824408,Susilaikė,44809,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 13:28:45",Susilaikė,2
+9824409,Susilaikė,44809,50659051,"Miroslavas Monkevičius","Miroslavas Monkevičius","2018-06-19 13:28:45",Susilaikė,2
+9824410,Susilaikė,44809,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:28:45",Susilaikė,2
+9824411,Susilaikė,44809,50659051,"Gediminas Švilpa","Gediminas Švilpa","2018-06-19 13:28:45",Susilaikė,2
+9824412,Už,44810,50659051,Šimašius,Šimašius,"2018-06-19 13:31:20",Už,1
+9824413,Už,44811,50659051,"Kasparas Adomaitis","Kasparas Adomaitis","2018-06-19 13:35:17",Už,1
+9824414,Už,44811,50659051,"Rita Balčiūnienė","Rita Balčiūnienė","2018-06-19 13:35:17",Už,1
+9824415,Už,44811,50659051,"Vaidotas Ilgius","Vaidotas Ilgius","2018-06-19 13:35:17",Už,1
+9824416,Už,44811,50659051,"Audronis Imbrasas","Audronis Imbrasas","2018-06-19 13:35:17",Už,1
+9824417,Už,44811,50659051,"Vincas Jurgutis","Vincas Jurgutis","2018-06-19 13:35:17",Už,1
+9824418,Už,44811,50659051,"Jaroslav Kaminski","Jaroslav Kaminski","2018-06-19 13:35:17",Už,1
+9824419,Už,44811,50659051,"Andrius Katinas","Andrius Katinas","2018-06-19 13:35:17",Už,1
+9824420,Už,44811,50659051,"Auksė Kontrimienė","Auksė Kontrimienė","2018-06-19 13:35:17",Už,1
+9824421,Už,44811,50659051,"Vaidas Kukarėnas","Vaidas Kukarėnas","2018-06-19 13:35:17",Už,1
+9824422,Už,44811,50659051,"Darius Kuolys","Darius Kuolys","2018-06-19 13:35:17",Už,1
+9824423,Už,44811,50659051,"Linas Kvedaravičius","Linas Kvedaravičius","2018-06-19 13:35:17",Už,1
+9824424,Už,44811,50659051,"Artur Liudkovski","Artur Liudkovski","2018-06-19 13:35:17",Už,1
+9824425,Už,44811,50659051,"Zbigniev Maciejevski","Zbigniev Maciejevski","2018-06-19 13:35:17",Už,1
+9824426,Už,44811,50659051,"Vytautas Mitalas","Vytautas Mitalas","2018-06-19 13:35:17",Už,1
+9824427,Už,44811,50659051,"Gintautas Paluckas","Gintautas Paluckas","2018-06-19 13:35:17",Už,1
+9824428,Už,44811,50659051,"Romualda Poševeckaja","Romualda Poševeckaja","2018-06-19 13:35:17",Už,1
+9824429,Už,44811,50659051,"Gediminas Rudžionis","Gediminas Rudžionis","2018-06-19 13:35:17",Už,1
+9824430,Už,44811,50659051,"Remigijus Šimašius","Remigijus Šimašius","2018-06-19 13:35:17",Už,1
+9824431,Už,44811,50659051,"Edita Šiško","Edita Šiško","2018-06-19 13:35:17",Už,1
+9824432,Už,44811,50659051,"Gediminas Storpirštis","Gediminas Storpirštis","2018-06-19 13:35:17",Už,1
+9824433,Už,44811,50659051,"Liutauras Stoškus","Liutauras Stoškus","2018-06-19 13:35:17",Už,1
+9824434,Už,44811,50659051,"Skirmantas Tumelis","Skirmantas Tumelis","2018-06-19 13:35:17",Už,1
+9824435,Susilaikė,44811,50659051,"Marius Skarupskas","Marius Skarupskas","2018-06-19 13:35:17",Susilaikė,2
